@@ -1,0 +1,833 @@
+%PDF-1.4
+%Óëéá
+1 0 obj
+<</Title (DSA)
+/Producer (Skia/PDF m93 Google Docs Renderer)>>
+endobj
+3 0 obj
+<</ca 1
+/BM /Normal>>
+endobj
+6 0 obj
+<</CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 1.33333337
+/ML 10
+/SA true
+/BM /Normal>>
+endobj
+7 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 707.01978 274.97095 719.62183]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWxUaGFBYUYwbkZENExCeVV2VUlOMHZENmU0Z3xBQ3Jtc0trLUptUk4tdXRleTNEV1NPdUhDdnJOYVVVV19XMlBmSk1uN0hHYkhrR2FfSkF0TmoxM1FDdVZyTTlWLXlnZG5KdXhoeTV0T19kTTh5RXBFU3FwNElDcmpjUUFYeklWclNpOUpNMDdWLU1faFZmWDIzcw&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Ftop-50-array-coding-problems-for-interviews%2F)>>>>
+endobj
+8 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 663.54266 274.41724 676.14471]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDNjT05JMXNtODJZVWsxcHM1SFd5OWpDTDQ3Z3xBQ3Jtc0tsOHB0bEh3RG0tWU9hOFVaQ2JiY0NIbTFsT3BHQ2lENElRdXBCTWk1WnM3NWRULTBPbWY3dGpEV05hM0lyOG1FZVFKRnlJcTQ3MUc3bGJ2TmNyV0FMVVU0SmxVdlYzVHFWTFFCQ0diS2xFWERoYTRQMA&q=https%3A%2F%2Fwww.interviewbit.com%2Fcourses%2Fprogramming%2Ftopics%2Farrays%2F)>>>>
+endobj
+9 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 649.05029 232.00195 661.65234]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm93ZV9Zc1Q4R3Y1X3ZBUXJ6ZGk4M2E3Undhd3xBQ3Jtc0treVItbDE1OXo1TlhTYU45d1RFcHpXUDFXNlA1dnBvME1BaUdsLWI5Yjh6TXE1eFRUcFQwdzBuVVRqOEs1T0ZBekdaOEFDbEp3dUQ3NEpzYzVXUjJaV3pISFdqa1lWNHo3N1liLWRuZTQ0bzRHcEo4dw&q=https%3A%2F%2Fleetcode.com%2Ftag%2Farray%2F)>>>>
+endobj
+10 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 569.68738 274.41724 582.28943]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbl8wZFpnWFRjWlVJcDVFaWRVYlZxcXlLNEZMd3xBQ3Jtc0tsM1AweW9LcFFiRk0xTGR2Rk5tVzhOQ0xTektZbnRxd0poVDdOdDQ0MDdqV0lVX0E2NXBZc2FmcEdFUVhnczFwcXhMb0ZGTjhnTWZRYkg3Z1Y4RW1WRUVBTjg3MGVRSDBPY0U1enZvaDVaRHFiQ184MA&q=https%3A%2F%2Fwww.interviewbit.com%2Fcourses%2Fprogramming%2Ftopics%2Fstrings%2F)>>>>
+endobj
+11 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 526.21033 235.23706 538.81238]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmdFUG9Gc053S3l5VHBwZ3pRa0ZjOG52WU1ZUXxBQ3Jtc0tsWURQb0VXTXZvZENFS0FuOHlJdW9IbTBNY052bWMybGZ6bnBYdDFMWTdfMEw0YlpiLTdNTlpwRURldVNiQkE0eElfTmU2eGRackdrRl9WWVVzcUdnd3M5eFYzR21VeWs2bHBPMHNIbmRJY2tlbHFiYw&q=https%3A%2F%2Fleetcode.com%2Ftag%2Fstring%2F)>>>>
+endobj
+12 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 511.71796 283.78418 524.32001]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblVwZU90eEtzc1BxYVdWbVFrZ0FYdTc5MGdnQXxBQ3Jtc0tuaGtBbWZuZUU0eWdVNFFxNENUc0ZuOEJrWU5vdEZocnlKLTZsbllJaHVIajZJYTlrRndlRnVCRENjeDN6RlQyM3BYZUpqRlpQWkNPSEpOM1ozRHFoV2JtNFI5WWdBZnNKUnJDb2VVbzRZVjNybjNYRQ&q=https%3A%2F%2Fwww.hackerrank.com%2Fdomains%2Falgorithms%3Ffilters%255Bstatus%255D%255B%255D%3Dunsolved%26filters%255Bsubdomains%255D%255B%255D%3Dstrings%26badge_type%3Dproblem-solving)>>>>
+endobj
+13 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 432.35507 274.41724 444.95712]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUtDQnQzbW9zR1d0N1UwcFZoMEtQTzBjanczd3xBQ3Jtc0trSERtNFlJaktsbUE4YVU2S3phLVAxOWRWdGxWZWlFbXJEME03clRoNHFQaUxlQVBKakRQSWJaUDdIbWEybkxSVF9CSmR4aWE4amhiejZxeTg0WnJqTlRPM3Q3d0pSQkJrcmtNRGJyRldKQVlURjBHcw&q=https%3A%2F%2Fwww.interviewbit.com%2Fcourses%2Fprogramming%2Ftopics%2Flinked-lists%2F)>>>>
+endobj
+14 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 388.87796 253.03784 401.48001]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVo3ZVk2Z09DVmNCMEZwNFVhaDhZSnM0cExHZ3xBQ3Jtc0trcl9QZUR3WEhEckVxR0hvWFI3VERSRWdOMVdvRkR1M1hxZElqdk1mU3JiclZ0aHdvdGVfWVVyT1dOMzRwajJOa2d2TjlqWVVLenQ0bmZvblRVM25SWHdyTEtCRkxNTDRwdi03TDNOZnZFOVFMTU0xcw&q=https%3A%2F%2Fleetcode.com%2Ftag%2Flinked-list%2F)>>>>
+endobj
+15 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 374.38562 275.15039 386.98767]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFgtYnZGZjJCYjJkakcteUlTOHZkUEtjdDVKZ3xBQ3Jtc0ttY2l6OWRTeU9wWnFzUzR6Nzl2Ny15SEh6ZUgtbXRZb29mZ1NMUEppMWFwblFnN252MDFJNmdlMDYwMjZSa3NqT3EwZngyVUdLR2FHWUlESHM1RDZUcUh3RVVtMEJzdXNoSEhDOGZ2ZGVnSWRCcGowSQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Ftop-20-linked-list-interview-question%2F)>>>>
+endobj
+16 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 309.51508 276.37061 322.11713]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0IySlBYc0lVUExEOEMyYVNBZXBsTFBHcVVWd3xBQ3Jtc0tuRkJ4YVBFRTlGOFR6cVpubHppQTF6R2QyaFdubW01RnlMeGg5bUk4Z3VVWHpRejloOE1NUlJRU2lFU00wTktiQ1pSR04wWm1sUHBTb094aFNfRGJxbU1LVDBPX2NNenpHTHM0Z1EtNVZUQXFjOHdaQQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fstack-data-structure-introduction-program%2F)>>>>
+endobj
+17 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 295.02271 279.33911 307.62476]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWYtQ1Rfa3BUOFYxM3hqTmJZQlM3VktLYktQd3xBQ3Jtc0tuQjNmRjJxbVdndVpNN0I5VjZLb3ZHU1k2S3ZzV0dMVmM0RVU5b1dza2JGUTJ1ZU5VS3h5aVY0cWtXS1dLOGZybk9SZDQwNXJESzd2OFpsM1VjaThBMmt0SjV4Vk1wUnZXclJQZlJUU3UxaWtwNTR1bw&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fqueue-set-1introduction-and-array-implementation%2F)>>>>
+endobj
+18 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 251.54559 274.41724 264.14764]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0YtS2p2aW1QRFlEQldxMWUzNlRFMEVuLVZ3Z3xBQ3Jtc0ttbzdhWlRHaEF5TlotUHppSmdxQS1YMGZTZzh2RU9OS1J5MXlqMUxBOEVJYjdmUE5ZZGtqQmMzYjgtLVlPeVlIcDNLbi1aT2FwX1RSRVNkMzBfV1F3NHhOOUdJRU10U1REZEtLc2psdDBNUG9fTzNGWQ&q=https%3A%2F%2Fwww.interviewbit.com%2Fcourses%2Fprogramming%2Ftopics%2Fstacks-and-queues%2F)>>>>
+endobj
+19 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 208.06854 233.98096 220.67059]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0VSdHZ0VC1LN01rVW5IdF9HT3RRYi1vQ0dDUXxBQ3Jtc0tuTEY4Ulc0Y05JUjNvc0wzUXZxQW9wQkdMRVVDS3ZHYkZ5MEVjMVhkVGVFUlVTNDEyQWtZNkdJSVNHOU9RMXk2QjVnQUh0ckpkUmx6blBmajR3UW13MzJKM1pSdlNTS3hON2d2aGNxWDg2TnpZWDJpMA&q=https%3A%2F%2Fleetcode.com%2Ftag%2Fstack%2F)>>>>
+endobj
+20 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 193.57617 237.45703 206.17822]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0IwYVBYX0k2QUpQUGdkTHl6MkplcGlpNFdad3xBQ3Jtc0ttNERJX3FSbVhrU0luemRuNkl0ZzFEU0pCeS1iQ1lSdEloeXhUQV8tRXZKSXE2NlpUWU9wUVdkWFpVX0ZYUmQ0T2pTdXFqdVRhVW5RclJWS0FFUlRKaE9MUWo4LVY1Q1J3b1gzMUNfODdLMGNsbGxTcw&q=https%3A%2F%2Fleetcode.com%2Ftag%2Fqueue%2F)>>>>
+endobj
+21 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.259521 179.0838 279.4519 191.68585]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDEyTHdJaU9RT0FCLUk5Ukt6S3pKOE5IVVBFQXxBQ3Jtc0ttMUxQMThaTUVxZlota0VBSDIxc09OWFRRZ2oxbGZGOEI3bG1PdnZKMXBkclZVaFV1MzcyUno1S3NOVjNwdF8wSzFlaXdqcFk1Nzh4ZjdYYkVrTWVSMmJvaDBrSmZBNGNTMy10cFBkMVF4a3ZoTXlpOA&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fqueue-data-structure%2F)>>>>
+endobj
+22 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.685059 164.591492 276.58081 177.19354]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmtQMnA1ZE5DSVI4VnhJcF83M1F1cjZPcE1QZ3xBQ3Jtc0ttZ0ozdGJlcms4bnZjQWZLdTJxMzU3Zmp0OUlsRy1EQnhCbVdGYXAybkhEa2JHcUFVR2tMN3oyX01WeURzd1VXYzBGV1FVSnpXcGV3QldtT051QnVKNmZteDVOdzJsZ1VndUhZamxMNXMtR2VqNTdoOA&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fstack-data-structure0)>>>>
+endobj
+23 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 99.720947 273.63281 112.322998]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHBsdWJBclh1TVVtcVlEZnY1b3NzNS1jNTRmd3xBQ3Jtc0trczU2MmZtbjVJaHJwX01Wc1NiUHpiNmFEZi04MlJSSHYyZFJPSk03S1JuREFkWlRwOHVIVWZPRkFEYWNHU2wxdmQyd3dzS0JzTkU1alR4TUIzS3ZLRUZselloQTlkcGVDWVgxREpBb0p0cWV6WW4xQQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fbinary-tree-data-structure%2F)>>>>
+endobj
+24 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 85.228577 273.81226 97.830627]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUx2N3JlUUtWeHpERTFGNTJjUWc2aUV5V0pGZ3xBQ3Jtc0tsQmZuRzB6M0NENmtuQmZZSV9lTzFnSm1CXzlXQkxmSlJuVWlKbW1CUlFyb01RSUJ0bnlqRVdENmtVa2N1Ym5QcnQzQUhGS1A1LTJ0UkpWTDdXdVZwRjM1eHNBcTBWczFnTHJyUmdPMjByd25RN1hsTQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fbinary-search-tree-data-structure%2F)>>>>
+endobj
+25 0 obj
+<</Filter /FlateDecode
+/Length 2005>> stream
+xœí\Ûn#7}×Wèyå°.¬" @œÏs²öv7‚Ì›ý Eö”MM‹ò3ŽlK²ÙM’u;,²Goß{‹ŒÇ}:üïKB
+.ä"‡áøÇÿüÛñ¿vÉi(–O»ŽùûçÇé—?~=¼ûHÇ_ÿ_šÑÄG ¤ÜÄ/‡Ÿì{wóŠùÇ \R	ÇúÝÀžž GÇÙEÏžtéÂ3ðêb‘Ó0Zb'‘ƒA•¸†èH#$FCõNPíàH0A†crˆ$´N‚‹!àƒ“dÒHV¾-zG¬Âãh@Ž(d-ý,šM‚‹È
+Ãh19‘àu‡R"‡`jrÄœ‚WÌãRÃ¤€ñ&IžD•qW‚ N81ìAË÷jJãbÃXüCÚ…&à ¨·6 ÓÄäcØã(ÉºÂ5jrNRRçÍ…kÉ%:É(Îîãr»D'™½p•–°¹õHšö …à¼Å`º*àDQØ…É¥tN¢ç5HÜ¡’¦Ž’2Œ¼CO€{´Ädf…ñšÐ.»’=ñ&˜m’¼Â+«8»Æ&	Ã5:yq5ÊÌ\nbÜâíR?>‘—· ™&æp1p‚³ì	BF¸,B]á&ÑØ¤O÷ ™µðd2«¤x{@$Û¿ðZbæ¦Ê»B·$ršà
+ž`l4±ˆìð[j"†È2î“/ñ[ŠF<õN]dóE{°˜Ø\^·ð‘üBZ>z€x¬ßsžn}xx:¼{4>dfQ¾ŽO¿`[&;†DÖ©§O‡\–¨ñ>»ïßÇï¼‡ðýñé·€y8[úZ¹K¹ñû5“¨åÎlu‘bHÖ+AÊu
+0Jx~	IZ/ðÜ–i¢]‚ª©÷Ë2'-iëWÐråÃÓŽµñÐTšÖðéšá@@Ë¢K9°æ‚i²ÀæEòxÖÁ£ò¶rÞ›¼½y³ûxo7âüiÛ<Úç¹‘µëð›,hVë˜ó"j•ìëèfÐ¦Ä_†vf:búÿyÈm.âüâ,qëÂ{Qé%cõÉâöª©d÷<,¯é#‘(ÅJ­á‡Iåõ85Ì?Ø'­RÑ%á­âK•rcu%·š0iS©t+Njmšl,Û¥6OŠÖ2,¿ãò:§m’äæZ^:³Òž5Ç&½r×ÙEn8«à¬rN‚"VõÃts¹)ë¬Ì•ãÜÎ‚ƒ	}ý»4:Cš{N{5±ÉhÝNÀòJ¶•¦çÜô’°ß|Gà<ç<ó%¹”ûÂæB¦²
+È¸ØZdÈsµ°ÆEUAtíÞËâkS„·&r!ñð<y[L1ùíM>ÈD&)oôbv¿b´-…@‰è1~?c˜R+ùj.qé­­ôª+ü°\Ñd^Þ‰»¨J›1}CL¥ÍÎÞþ›súmBüëem*ý®ˆ¯›2NÁ”ÊO<|&è´{wÎ0ä ~œ‘í÷qºÑ!IcØ‚/F>ZqbñÆ‚rÅf™=vÜEÜþ.p‹_ÒŠ›øn£Ýý¹5ÙÐW#~i	b`®Ò#ÜáqIsDBB¨…·ÂÛ3{Ù®ÄåŠP"¨¢Á«öY—ž	zû©bN—TuÆÍfÜ¢;íÆß=Ê¼9ºÓîµ~½t§Ý¥½+â ;¾ò³çfr!§ü¹ñ&¹Õ,ÀµÆL”Î£vãûNŒÞRŠW.Lñ¶ÇnM–V†qûÌ¯ÛQ^™SæZ‰*$€-Ï²Ø¢Õ!~¾Yô‹év¹ß34n€’Í0ìP@Ì86˜•ù…¹‚érÂ¡:ç‚I{På¦Aâ¼¾IZtƒY+ËéÍçÑœ¹GÄoÃŸjxu^›ÂR÷¸ÎöÒ=Œ~#bÅ-V?¥{ÅÞ{CÌöðÙÝ‹½¹f{Þïë]`¶'ïŠøåòéMì;·dlSÞcÝ—ÉKé¬LšC§·“‰¾š™°ÚºÏ¨ÿ\@;ÛÓ¿·{|=SäSä¿–Ø¯]m4Ç°o§Y×ö—åiØŠlººe#â’§4’Zg	–“2Ä˜«¤Kƒª{&ž­c&|¨²ëY Á„VgO:¦›ÛyÕ½³~•3]»<»ÕÅÙˆëžÃî§‰ºÉµ>J·±:ŸïÎ£4o¼éÌ¹Oû\Â7š¦ªw¸³êo"lp}àe[ù³QPl…¿7éß>‹rgó!]¸ìI¡Ó‡A>/±w%ëˆYk!ší6bò’àøéPþCC! Uñï‡ì8Ó?6“bTÓ %•›¹.îA·§ÍG-)"èòÏòÝUqúäPë4Å`Æ­§£^Š;Ð'ÇG C~@Ô§2j]F½÷ Û£zc£fói9â¦esi¸=T36f4ó£	y›î­¸}rŒblÌ’“½©(Y~ò}Q²¥¸Ý 5ÄÄ¡µê­¸}²U6Í†CÑïò”ÒZÐmwjí™('Û¨Ô=Ð6>ê¿$ùøÜ}•ÒðIútp´ùa|ÅŽ¥.è¶	Â1P$ÁbHèë‚h›MÀ¦1Éu)è¶ù—Á‘†ü ôJ›`—âtCà$y1=Õ¨¥¸ÜÆ1«µå>GÑS7¹OÐ?þü¢Ev
+endstream
+endobj
+27 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.259521 757.39795 268.29565 770]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1N0eG1DWXIxN1F6bW9yTGJRbnRwQmFNMmhtZ3xBQ3Jtc0ttOGw5WVhDTUR1dzlEZC1ma05fX0pSbFB1MWJVcDBaZGRVM3hOSkFSenR1bDRWVmZXNUxlVU1YbmdqN09LZl91X0hsVjNORGVESC1VamJoNGEzZG5yTVZVOGRLNmlIamwzQ0gxOGp3OHgwQ1owaGhkSQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Ftrie-insert-and-search%2F)>>>>
+endobj
+28 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.685059 742.90564 279.86719 755.50769]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm5kLURqc0xSNE56X0JsbkhBZVdmemlGb0lOZ3xBQ3Jtc0tsS3hrdjNBQ1dwZ2djN2VFZmlvM3FaR0FiRzRjQVkxYWJLdWdpRVQ2T2I2ZVhBVFNzOWZXUGZjU241eTZtSmhMSUswYTk3c2NfdDlwdFc0YkhyVkRfdzlzd0lXanl1dXA1ZDdIM2tJZEhjb0xmNklIMA&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fheap-data-structure%2F)>>>>
+endobj
+29 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.326172 728.41327 278.95459 741.01532]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazZnN2NlRE9pMWFWWUtuRkJ1YXluLVR0QllYUXxBQ3Jtc0tuNVZYdVpYazIyR1VKNDJWWEdnQ3lSLVlNYzhrUmt4MW1IWkV5MzVKbzdaOGlvNTNCZy1ZWmVXb2stMlBLbThNRVFHUDJhaHYzZ0s5dk9ncy1IWmp3MnVtbV84d21UUURIcHlEZkFhUWw0d2syZDZhOA&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fhashing-data-structure%2F)>>>>
+endobj
+30 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 684.93616 274.41724 697.53821]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3JjYXlVV2hFMkFvX205TjVLb2lCWE9CdmZId3xBQ3Jtc0trUGo1anZyaGNnNS0wTDdCTHFWNnFvUm9mSVNIZ2dIUHlCZ0J3RUdlZmtBRWtIbDlHUjA5OXQ0Vmp2MjJjS2tqTHRkd0tQbzdsdUdZVk44a25COWhNMF8xOWJXYlliMHVXcVZDR1QxS2tZVmtxX2NHUQ&q=https%3A%2F%2Fwww.interviewbit.com%2Fcourses%2Fprogramming%2Ftopics%2Ftree-data-structure%2F)>>>>
+endobj
+31 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 670.44385 274.59668 683.0459]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFZSSGhhWGpaY3hXSktHN0dTS2p6eTZicFVRZ3xBQ3Jtc0trbkljYW4zVl9UREhucGhnbHdKSHpVQU8xQUdoWnU0djZPdWNubUNzZHZteFNtbjIwRDJKb0FEemc1WTQ5cHVVWnB1N2EyQUVndkNGS21zNlEyZW0xUVZQaFV4bFFkWnNSM2FFbkNUUUJqR3ducmlHQQ&q=https%3A%2F%2Fwww.interviewbit.com%2Fcourses%2Fprogramming%2Ftopics%2Fheaps-and-maps%2F)>>>>
+endobj
+32 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.259521 655.95142 274.2019 668.55347]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmJqLU1BTENGbFNCQ1MxMUk5OC1wbjlaZW1zUXxBQ3Jtc0ttaEV2M3p5NHc5THlDMExkSm5MRG4wSXp1dUliUEplS29FMEx6ZGdaZnZPTmw1ZlRLc1RSbzFQVEdFX0pzNnk1Q1lQWVR5VXNRckRkdEllbnZqYVM5OWc2akdVcGxNY1pxMHJlUG9DNk5wOHQtX1VIYw&q=https%3A%2F%2Fwww.interviewbit.com%2Fcourses%2Fprogramming%2Ftopics%2Fhashing%2F)>>>>
+endobj
+33 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 612.47437 226.61865 625.07642]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUpKUjdmejBibUh0WGhMZnNrejZlZDNhOGpsd3xBQ3Jtc0tsQWFIS3FmZlZ6dE1Pd3NFN1NMcmtaalhwUkZ3aTVCNDdYVUVTcGFMN255cWhfTF9MWVBNUmxUZl92ZXlMQnZkdkVua1UxcURKdFhoNGZCZmxQSl9YNzlOaFRSN1U2cnBua0txTzRQbmdHeWJsWE95NA&q=https%3A%2F%2Fleetcode.com%2Ftag%2Ftree%2F)>>>>
+endobj
+34 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 597.98206 231.73535 610.58411]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEZYcG1lUWFoSVJ6SENyQmowaTUtX1ctVFlLQXxBQ3Jtc0ttQjEzSkVLWElvLTRiM2xGR1VtdjNWTi1LWXp6Z0loUmU0ZDhIZVdpaUZfUDI2ZFZRNjVTRkF1b2RIc3FEUElFUkNFZllvcDRuRm02VE1LOFhrSklvT29wMW1kR2VPay1GVHNiODlvTVljQ1dXVnFOQQ&q=https%3A%2F%2Fleetcode.com%2Ftag%2Fheap%2F)>>>>
+endobj
+35 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.259521 583.48975 223.48608 596.0918]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmpQZ2V4ZmRPa0RjTjZ2cmQ0eHNOWjdNT1ZsZ3xBQ3Jtc0tuUl9EaGUzWU5CNlVqTmJldXNQTjZnMGc5NnpSbDRFSzJ4NUkwMEcwQ1NLN0ctby0wczZBckF5SUdiYkpaUEdFQXdYaU5DelRBa3dzYl9zMFdJclBRRlBUYmhGV2lJVzhLcXQzVGgxM284VFFtTWFRMA&q=https%3A%2F%2Fleetcode.com%2Ftag%2Ftrie%2F)>>>>
+endobj
+36 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.685059 568.99731 257.54956 581.59937]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGFDODQyMm9QYUFfVXVWZS14R3AwVFZjT09GZ3xBQ3Jtc0ttQ3NzZVhQb0RwSThFWDdGUVBvcmF2a0VGQjZaejBscTZhSlFzWEJXQXcyMktlX05EeUZrZjhKcGNYNDYya2p3RDdDd1NMSUVJbzY3MUR5MEdQZ0d0dnBlc1JjMmoxa1EwYXA5Mmp0MUtaZ21obUREOA&q=https%3A%2F%2Fleetcode.com%2Ftag%2Fhash-table%2F)>>>>
+endobj
+37 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 489.6344 277.41138 502.23645]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3pfQzhuYUJXd3pkdXN4Z0RzN1o1a0RHVEhvQXxBQ3Jtc0tuOHlsZE9rVGhTYjFwSXo1QXVTNm54VEp2Wmd3RUlUU285aWI5TmFKUE51UDR3RHhmaWllWXBzVHk5ZmRMSUpCV1N2M1pQeWxTc2xqNDlCM05GSGJZLVQtM2JxSFF2QTk3aGFhV2lHYXFEbWxuX0I0SQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fgraph-and-its-representations%2F)>>>>
+endobj
+38 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [107.140137 446.15723 304.59961 458.75928]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa19TTG9LSGRNYmJXLUZfWl9TRnVIcmxaUkg2Z3xBQ3Jtc0tucVlFN1lXd3RwRWRJTmw0S0xidWdXby1jdHpMWnRBWm1zZVF4aEtKR05qcG5wQ1paVWd0dnNuZVFxWHFTaERIbG5ySHRiVjdkWGxXRnlMYVAxV0xibG5qa0VvbVdZQkIxQzQydExmaGxlY3BKWUFYMA&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fbreadth-first-search-or-bfs-for-a-graph%2F)>>>>
+endobj
+39 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [107.668213 431.66492 302.50269 444.26697]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2ZzbFNzMmhJT0p1bjlpZmNUdnVCdXdDZ2lUd3xBQ3Jtc0ttLWtxZ2hHOEw0QjhPR3BzcUc3VWdYdk5mWTBIS1N1LVc5Vm5iLUxKRm9KdExxLTd0YTZDVmMwR3BCdFhfNGdkUWVFb2tlOWJWN1JUaFpNZ3Z3dDlzZGNobFpfbUZfZExMV2QxR09DUi14ZGl5VWQ3UQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fdepth-first-search-or-dfs-for-a-graph%2F)>>>>
+endobj
+40 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [123.520752 417.17261 313.28979 429.77466]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZfOVQzLWxiMVg2MXQ0LTZPUzNYYzU5YmxUd3xBQ3Jtc0tuSnFDMnUtY01UbVJuTi10Z0ZFMlVBOE9OalZGVnhiVS1BbmY0RWtNNEtvVS1jeFNqUk85OWxENGdzelBCWGNDeXRMVWVzeHNaV2ZKSnBHdFFLWTBXdHFsTDc2R09lQUFpTEo5bVlXbExCaVJILW01bw&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fdijkstras-shortest-path-algorithm-greedy-algo-7%2F)>>>>
+endobj
+41 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [117.009521 402.6803 317.42212 415.28235]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkNXN0txUDVmM1kxRDJEQ3duZ2cwUkEyYUxqd3xBQ3Jtc0tud2JXaXF5dzQ3WUFJWHJ3LTZvbmZuZjZBdV93M1dfQWFLRG1DS0ZqN2hfVlBSTjBtd0VIOC13cGVqeDdkWnNUdnp0Uk1Fd096aGxUaEZnVFFwd0xoY2xuam14ckVlOTRjOFhiUXdqNE90T0lMeHlNVQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fprims-minimum-spanning-tree-mst-greedy-algo-5%2F)>>>>
+endobj
+42 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [123.341309 388.18787 318.70386 400.78992]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazlueG1NZkcwa3VCTTkzdFNZMV9wcUVnWm1hQXxBQ3Jtc0trQzgwZDZzSDc2MVhaV00tQ0FxOGNLVDhNR3R4XzlsUWdIbWFPQ293clZKUDRYa1NMYVcyTFEtNGNwaWo5ejdUTl9pbEJzWjFLSFQzSENTaDV2TGdmYlRkNVBvbEVYRjV1Tngta1BFT283a1k4a0ktcw&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fkruskals-minimum-spanning-tree-algorithm-greedy-algo-2%2F)>>>>
+endobj
+43 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [154.902832 373.69556 349.45532 386.29761]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkFlbHB5N0dZZDlUMUZaVjZEcFVEVzE5b2pOQXxBQ3Jtc0tteTRCTjQ1VXZZcDI5bDRHMVp5dXRzUUtFNUZrTjBRbVdyWlN4Q3J2T3BvVFpvTnJLSHk4blRrazdYaHpnSXRTemZBMWZKa0JVTnVhUzBSelZZeXYyZW5VcnFLYXlGaEk5czIyU1RHYU9mbll3alk4aw&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Ffloyd-warshall-algorithm-dp-16%2F)>>>>
+endobj
+44 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [138.3479 359.20313 332.50562 371.80518]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbld2UFJIaE81NmxiSlRKLVd2SVVRVGxGSWtvd3xBQ3Jtc0tuZnlhOXYzSXZ2ZVUzSkItS0ZmV0t4MWt0bXE2T0ZxQU9SZVpWdi1fRGdZZVRzbTQ0TGd0M1J2OVhGXzQwanRCLUo3eDd6ODNIS0F3dHBvd1pTMlJSdTRDMlBleThjdDVkcXM4Mjl1UU1CZ25EVWhRRQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Funion-find-algorithm-union-rank-find-optimized-path-compression%2F)>>>>
+endobj
+45 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 301.23364 235.23193 313.83569]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDNrT1d1TzJ3bnhOOHViOWszcjdsMXpMTndZQXxBQ3Jtc0trZjJjMUxlN0pGYkFBbUFxeG9veW5XVEFsSEE4NFN3X05QbHlHbEQwR29HWnQtUHRqZ1JHaEFSdUUtcF9OSjd3WHpXZGV2NnpfYjNfYXRQUjB1aG42bmx2WG5rLXlFREFBckJEWGNic1pBb092ampHVQ&q=https%3A%2F%2Fleetcode.com%2Ftag%2Fgraph%2F)>>>>
+endobj
+46 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 257.75671 274.41724 270.35876]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDk3eVAtN0I3OFFPZTRvZE93QjlnVXlkMGJaZ3xBQ3Jtc0tsWEFPdE16bHlIVENCZ2ZaRi1sNVROM2FZa3RLX0JsVElfcHc4djRBZjZyZVJ3cXh0Rmhub0RuYWFFSnJ0QnZIWDU3N0twNDlycEVINzFaVHpSTEtOOHJ6OFpZeHh2TzRONnRjQ3ZCc1pnU2tPa21Hcw&q=https%3A%2F%2Fwww.interviewbit.com%2Fcourses%2Fprogramming%2Ftopics%2Fgraph-data-structure-algorithms%2F)>>>>
+endobj
+47 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [113.774414 178.3938 321.94922 190.99585]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78&t=0s)>>>>
+endobj
+48 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [113.953857 163.901367 323.30273 176.50342]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78&t=0s)>>>>
+endobj
+49 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [113.559082 149.408936 326.77881 162.010986]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=ocZMDMZwhCY&list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78&t=0s)>>>>
+endobj
+50 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 105.931885 281.66162 118.533936]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXRxaHhfUlRCWWl4TC00bjB2WnB4MzdFczRrUXxBQ3Jtc0tudW9pcmhQTDE5NS1NNVVyY29CbkotNjV6ZVo1aHpzNDluRGNoUTNJSEtBbGtUYnFRZmRZQlk5aG9FQWNsMVJqOTYtRFprcnVEdXhkcTQzREZkWk4zX1daSHl1S0NORU90cExjbDdpWl82ajVwVFQtZw&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fprogram-for-nth-fibonacci-number%2F)>>>>
+endobj
+51 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 91.439453 276.77051 104.041504]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTIzRkRMRzNtejRvUEQ0N1dQdGZ1QUhZZG1Zd3xBQ3Jtc0tuZWtURFEwX0dQeDA0SWQtdmt0dThkYmpnVDN1RTAwUUlhR291RnViVGRJbkkyZWFRU3lGNGFIZzFUWld6bkhuWWZUUVdudXRWVWJOWVU0ZGkzcUFQeE1YTlpjU3NrOVlNaWlZVFQ4ZDZKdWhYUzJJMA&q=https%3A%2F%2Fwww.geeksforgeeks.org%2F0-1-knapsack-problem-dp-10%2F)>>>>
+endobj
+52 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.259521 76.947266 275.96558 89.549316]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmYwbzhyNDNzMVY2UFUzYkNvQmJxWTVaMTFXUXxBQ3Jtc0tuVVFnaXdZNVlvZVVldlU4eWYtajdVOUZ0bFpHRXpwa2wySEpqdTFTaUVSdDd1WUt1TGcwQ1o5N1h1ZVpFcE1QdzdoRlg3aVR0VXZvcFVWcU9YbHFhaFByd196eHBUNXZYNVY5eWxQekt5bzF5R20xdw&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fcoin-change-dp-7%2F)>>>>
+endobj
+53 0 obj
+<</Filter /FlateDecode
+/Length 2716>> stream
+xœí\Yo#7~×¯ÐóËa±ªx Æ >çi²1°ÏA.`‘	’lØŸ¿ÅKMJn‰nÉíÉØã‘-Q-~]¬»Šlµüüä—'³ýþóæ÷MáÀŠã2¼ýãÇÍ¿þ¶ýUÞRŽÓê_¹¶ñçŸŸ¶ùÉ?o>|ÂíÏÿIÓ¸@[ ƒqŠŸ6ßÈÏðôÎÄÿ ‚³¼mØá`l,(g¼U^‡Tïá Æ[EÁ ,sN[!å4h­‚'ëÏ@c0Ðš	*Ø@~ùJ¯„šÜ‘".œÃ¸ ¼vˆ:ö*0>Îi!Ïs¨ˆ,ãYÄYm†¤Òh£Á¸Åh„Ê´ˆ#hr‰è Ÿ!–ÚŠˆ €!(’kÃr00¢EcBiHôEŸ¡Fƒ€ÁÂ«imÏr
+C ‰DÊ;g—/¤ØašWÐH£›G3¬ŒC‹ÑX+£E¦GV1(g‘ùÝ–ÕñàG´­WNÌäò•+¤Cdý œÝ$}†ƒCÃ…Æ‰IpÊ¡Ër4-B‰vÈL’è¦1ŒËÅ8ond%ÉX¹6Î±ÍÉý
+#hÊˆ_n&…eâ½=ù4få´ÁåB),S4­dt…g…
+Mé! &GY~ùJJ`¢C1&,«–Îˆñ0rÞ¢ñ8Ì’Ëõ¬²@†G¤„(Kç˜åçÄ\XØÔ3¢eYIÒA|÷i—#®8ÂãàBpz„m–Ai-Ér!A1ë–‡\€µ,i‡=#âBçíÄŸŽ 91>è3 úcÍzD$#çðœ(HF#´9#q¹µÚž)y?Â7‡N’^X’!ÀX’ Öge‹r¤C°E¹¸eÜ¶¿ã-N·pó¸ùð v…¶?m`*6(”\‘QâÎÇÏ›8ãy/áŒü°½5tZƒù¸}ü÷æþQp­X^	A$™Q´Ä§¡@2RçYÒóÌ[­Ù—‡Dñïá^˜îC€e±œLœ¯”knê#_cyQ?]ddb¹€By<ä‰éZþÆ	lú ¤²€ÁÒôÁ§>'k?$æF’íàº¥ÛŠ$Xy}—' ÈÏÙäIò£.ï©¢Èz\÷âºXF’SÇ[âz$%}3)‰ë>¿âz_ZíábÊÎÖ¡LýöØÎévRôôþÛû2áj|òil¹ùLeŠ	µó0Q)K¢#ƒ–þÊkù/Ü£®¯J®'Õ|1©¿ËË¯(ÔeáãÄ‘!…[(©;c¦ùzr:qV*Nˆ}™È¡†"»õuÈ+Ép(wŽ£òÛ‚×ã°½œ»CýÊvëËfqW|C¿>÷Õ}PºShpÇî³k•¼{“=AÔS “ä¬ˆùæŠ—µO^ˆp¦â¬éâ4cR×bzw/À¥ƒdã(?Ú&Ü»õ~1¥i2þ£ìèÚ”ïéýK©G“”E?³»ÆNGùÔ7xñ‰Ä±*›þí³‹,A@¤ºtAI”ÎÖ•¸Î&”ˆ>L¸pÐª´L»74åDU¡zzÃä¨DÔH§U›’»bæƒÍ(tî¬<WpíˆN“1Õw¬	ÆØ&¾­ï0{k§Ïd‡²FËÿ†ÝÇ2Ç¾ã½jH‚~²°M€´ïÉ5±ÚÝ)"ºFú{¼ò×(éÜì.dÐc£™¾jV†Ë{ý.‡uåÙMæ/Upêó²FAàsÙÇp±•7eéÜ)yïöV¬,ïåžÅ¾›ëL´NuØóõ€µÜ‚Xë·ÕÇHž²è8Ï›™KôI…Ö¤CzÐmˆY9;("â_@DÄYßû¶D¤V3¨‘È¨CÒÐoXZ99™¤!î÷Ó4Y°ïX‡Æë_NlœØ^«ßZ‡”N,¹è¥]Öímž–¥n;ÚÊ‰U	¤)ä,„*ø$Ø…ê%"W>HdHM8yA{d1§ÍoK°¸[ÿòa(‰âu›WnÂ{ôiàRÄ‹@%»˜ÙŒ–$þMIYÙ1éè6…®'×t\çûe¬ýq`8ø®cÍ¬I\|I2OªÀi;x—ÙÔÂí´2—”;ˆem¾!¹Ko~øö·ï~½ºúpýýŸÿýî—Çÿ÷çöêáþAf²²äööãöãÇíÍÝíæJÃM.¥Üÿ#¾ªŒ6A‘p‡yœÓe(B¡íó¼i·%y=Y¿i¼iÐÓŽƒÒ"ª:°Ûà/'!ZÅ`ýÛ²ŠüÄ*?+†ï·“¯Þ<ÚÀ‚K7°ô»×ß+x/P¬ŸÊm€¤0‹Ò“õ6œd”O/‹£z¤…¡o£¿Ò»vB,ùFjki;SjS…Kß®î°ÂêšÓ·ÝO)BwÔá]¾º= ýé’µû]7ëwùbJbaô~ÀZlŒ'Ûlk`³k^Yï@·åþÙVX8À)öÓtWîŒœuØÎµk„9Àž&©ƒ&Þt#"µyN‡©r_¢ÅØ sÁrëíë.h«ÑÎôŒ6àíÏ_”#K?{ÇGíTliÝ>KUÛªßXvÏV/YË\“î;§â	©–ìcÜ—z•>6D¥ ü‚UQë`YâÿW4Ö“µ0"}]™®ZÚÂÊdç‚›*”à(Þ®Álác	å9ÆUóÜO‘ûikÝa{•6ÊØ‹J iŠéÊ×.1¸ÄÍ¢b¡5ªX´ç{[Û9ÚsëO ¾J—å@X.Ù{óq£Î«•Ö‘.±Þç„£Æ:^dÆAwK'¥¢?)úeæíÇžÄ÷czvb{˜„vçSMÚr» ÖC½äùÚvŒk7‹Õ~‚>µé§?ûž)ý5ª`(H¶áB<ÐÒ‰B³+H2ˆ|œ·«RŒö˜ºSÌ+{îˆÇq^fuù€r¤3†¹©:úPŒÍèþ¯þ8ùÊ>ø"Vá8D³~Ë°4ëùm˜<óSl_v°ÿ4S>|²Q„©ºâ¢bú·ý¼‰_¸ŸR3úËæÛÓGË—àÊ3g=3D`ç*ð4<ƒ¼w¼y!Éé{)2´mæ@÷ŽŸ.#8n*Mi¥ÃDpžÃÞ;¹â@{w‘âR[k‡ç°û{ÉF'zÍd—áè½#ZË¨&dcÀEhmÕÁðtðh!ÕÎ;ÂËnéêfxº;c³h³è}"*ò4<‡Ü'YHtbÉB„ŽßŽ5Ì€îík_ŠÀÉ$ÑÆI¾êðt¿Åxš‹öøÁ€!ë¢VÅïrÛiUžƒî·®.ò"7CÔ*ÔÝÀèÞÉaÐd”FãE€"šiœDžÃìwÒcÚÌ@¿«Ë&L[wžÃìw^=—NF;(34t–á9Ì~?Ï¸W9Îô‘JØ­¬ÃsØýþŠaìéuÈ!D[äÛ´½6ö2%dcqüà&U‡ç ûÆá2[!±§aÆ}_T‡g ÷Êäã
+ë[åhHâŒ8‰Vžƒîë³ã*¤s,ñëc&M*T‡ç0û2ßBrÉKö›¤™t;0ºWíXaAp>ù¯Û9Ð.…^Yyï‘{ï³Ãí“¸¥q•„G)ÀHj}!¿Ùü¨ØšŽ
+endstream
+endobj
+55 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.685059 757.39795 283.74829 770]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblY1OU5JdmcwM05vS2UwRGhZQ1NzUmNzN1Nqd3xBQ3Jtc0tsWFBTN29JZzVKMjJMX0dpN245WGdTd3dleVFWelVqbE5NbGlyLUw5Y2lyZGtoaU96Z1dzSzgwOG5fZlM2anJEUjIxZW9fZlgxMlVyVEVfYWllSFZSYUp4UHJHQzQtMnQ1M3lGbmNwUWJsdlVHV0dnaw&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fcompute-ncr-p-set-1-introduction-and-dynamic-programming-solution%2F)>>>>
+endobj
+56 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.326172 742.90552 276.65771 755.50757]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVV1blIwS1FVOHJWY1NwTGdaNDN1TE1aU0llQXxBQ3Jtc0ttM0FOOFZfS2tKLWxraEdTVm5xLTl3a3pLZ0ZTdkZkOW1Hck84Q3NTTWhuTjRJQzFQY0JBa2hpelFVZ1JnRHMteUljelZDTkFRMXR5Q2JLam9zcGlpTkNKSXROTFFHRnYxTUgxejdWM3g0UksxbTBUbw&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Flongest-increasing-subsequence-dp-3%2F)>>>>
+endobj
+57 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [78.408691 728.41333 274.74023 741.01538]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVhGUTFVdEo4MWs4NVVEeFhTSFJMNnRPVmd0UXxBQ3Jtc0tremNTaW5kWGlFdnlJaGxFZzdSTnZTeWtnbXg1OVpUc2J6WjBMZjhSVzRBeW9DRzdtWUVQYkY4Z1BKZUdKbV9zRnZRaXlod1dSLXhXaFY2MHlEOHB4cWxIck9yaW5nQUNBRTRLYTlHcllad0I3NDltUQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Flongest-common-subsequence-dp-4%2F)>>>>
+endobj
+58 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 713.9209 276.98584 726.52295]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHRvNnhvZWl1Qko4aU1XZkpUZm95NGZ2b2w3Z3xBQ3Jtc0tsd09SWjZ4LXdoTjJLWndJY3pTU1ZXVUhUeDNnVEU5Y2lkT0xneVZYMTEwb2Ftc1cwYXJmM2dpVE9JcUlHX2l5SGJpZldPLTBXNnpRZHNHOWYwUmJjZHA1V042ZVVYS1VRUFlXY2RrUVhfVFhPbDNxQQ&q=https%3A%2F%2Fwww.geeksforgeeks.org%2Flongest-common-substring-dp-29%2F)>>>>
+endobj
+59 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.474854 655.95142 274.41724 668.55347]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa19kdTZsSUV4WW9VMmdaUElfZGVvUEg0TjR3Z3xBQ3Jtc0tuLXM0dDdhem9FeGdnN2NTdDJ1b0dGVW56aWpLSTlFQ20xTkNRY1hiOE16V1picm9rQ0lfSE05RG9MdFdrc2s3UGRjNTV0Wkd2MnZ5TVFaZ3RCUXJPWDV4cW9tc25GNlJueDlrZ0liam55TURJWV9BVQ&q=https%3A%2F%2Fwww.interviewbit.com%2Fcourses%2Fprogramming%2Ftopics%2Fdynamic-programming%2F)>>>>
+endobj
+60 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [80.654297 641.45898 276.50903 654.06104]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVRxSFBLbmt4elZLYXN5aFFwM0s5Q3JTbmlkQXxBQ3Jtc0tuSnZpTW9pN2xDSUhPM0pibFpaeUJYZ2V2ZENLTENrOXFnU0xuZjNPYjZ4V3I1cmNhdWRLdHRQclktdEpUWFRSNmkwSG93UlJBTE5jbkZFdEJpRWtYUDRfT0s3SGIybTVNeENZUTMxekNpb0JQb3J6aw&q=https%3A%2F%2Fleetcode.com%2Ftag%2Fdynamic-programming%2F)>>>>
+endobj
+61 0 obj
+<</Filter /FlateDecode
+/Length 710>> stream
+xœíWmoÓ0þž_áÏHx¾7Ÿ-!¤¶}Tâ06	1$Æÿ—8;.Iº–eiU„XR'Ñõ|ÏŸ³}ì~öHŒîó}÷£+Éâ¥ˆ<Š{øÒ}zå¾Û_^¥vØ¼M\¹?\¹þãá®;»"w÷³šÑÌ ©˜¸í®ížm^±üÀgâÆO{,œcBOADŸ*ñÆ‡G0)zÎÈt š¢Oó4ÁçÄòpÁ‚9p žUƒÀpä	˜gE'ÉgaD^ÇÑG`”4Î\cŽBËƒ‹Ù§”ã¬à’úL¦|P¢DMºƒ¹ES# $7~	VëîìÒBe·¾í`˜û=¿äÖ÷]‘¡åhÂT7îMœB |ëÖ_»‹µáÆ¨ÖÉ.çèDbˆ»¡,K²	0ó]’Zckj>\X£êe/6Xj†{} ÓYmZ¯cS;å4(¡6Î­]ö†ùÜÞÅ@¬-rä¡ã®NÅØ¸yÔŒY'Š[¬MZ(¹«+Fú¶Þ'×¨ÓÑžD;{‰Jfú¿¢]BS¡’fÒ¾µYœŽ÷ó#ñŽæRPÛ^xïÓ]ût¼¯Ž·ÌÛžñ2ßŸËû´|:ï`ÆÁyÉþäì¤ø:]ŽÊÑö$+Ð¢UY1Eß·ñnµ@Ë0E‹rÞ+W¥’Y±un™5.0&G5ÚrC*ÍÍÆI½{:‚ã?²…a©¨¶1çQa·ÍKÕ“QaXðZyÑ«<k?)«/}R@qÈ 
+¶ÚMæ²ãÄÓC}v¹6yb¹´Œ2ÕËÝwåÔ]Å#é·îãŒ‚v	°}iLb{¤!—3ª]<ïÞ.ªæccKHzÐ0
+·‰÷níèÎŠdc¶pïÃž.ÔË •Ô¦Œh;2ÿ†Þˆ÷AO—eùÅÀ‰)N£Ä=ôu÷^,ÉÒ
+endstream
+endobj
+2 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G6 6 0 R>>
+/Font <</F4 4 0 R
+/F5 5 0 R>>>>
+/MediaBox [0 0 596 842]
+/Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R]
+/Contents 25 0 R
+/StructParents 0
+/Parent 62 0 R>>
+endobj
+26 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G6 6 0 R>>
+/Font <</F4 4 0 R
+/F5 5 0 R>>>>
+/MediaBox [0 0 596 842]
+/Annots [27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R]
+/Contents 53 0 R
+/StructParents 1
+/Parent 62 0 R>>
+endobj
+54 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G6 6 0 R>>
+/Font <</F5 5 0 R>>>>
+/MediaBox [0 0 596 842]
+/Annots [55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R]
+/Contents 61 0 R
+/StructParents 2
+/Parent 62 0 R>>
+endobj
+62 0 obj
+<</Type /Pages
+/Count 3
+/Kids [2 0 R 26 0 R 54 0 R]>>
+endobj
+63 0 obj
+<</Type /Catalog
+/Pages 62 0 R>>
+endobj
+64 0 obj
+<</Length1 17692
+/Filter /FlateDecode
+/Length 6877>> stream
+xœí;	xSÅºÿÌ9'K›6I›¦¥Á6iº(´¶¥¤Å
+µ‹ÈÒ‚-{¥…–èÆ.›Š`õ^îUTqÁ“¼ªè{*îEEåºP÷PÄ]JNÞ?“¤=)E½ß»÷-ßëLÏœYÿù·ùçŸÉ) ˆÂD{IaQ±p…  éX;·dÜØRc¿ÓX¾@\R:± h{é‡Øù0Öm[š9`aéÕ) š*ì?sÖ¼Êñzñs,ÀòC³µØû¯Ð6`yÄì†9óf|ÿ –÷àøÿ˜SÙÜ :ˆÐ·`»aNýÒÙ—nÅ¬9 áãšªyK†(ÆræœOMueÕ™wÞ˜
+`B ·+ÂSõË rÚ°œ\3¯eÉÉ£Naù@äžú³*ã/5ÏDø«qÎéó*—4HG3@ÁMØß>¿r^uÔó8¶@F|4·øæÒré!ÖÞÐTÝÐoQn–¿Åö€ …ð‡H^B¬ùÃ¸Hñ‚‘Àù	ôÇH #àÂ4aZ#1c0‹‘Àx(ÃtT`:#ƒÆž0;ÄÂâËÊ ~ÖÒ¦zˆŸÓT]ñõ•-ó!e†Áçó÷¯«nšÜ„Àh‘cGi+B¡(?ìK“ÈSˆw$¨‚ï8OäéuÁ:ß!ß¾yþUßz8Gð:WËo‡ßçŸõmßŸ]òÃê‚è«àéNß§ødùöùÖûÊ}»Áäkó}«(
+ÊÑ÷5ïñ>O?†¨À¸RLL}—#&F›RÿhÚÏÓï˜6ûÖúr~0)™qþÔ–,ÔA¨ÅP‚ÚqjÄ(E­˜„Ú@Á„ýÌ}£:¦áÚEQ«\˜æaÇñƒ@0Š@Ë¡0Íµk­u £ W`Cm« ‰ë›a9ôˆ€3­5 N±ƒ«ãpEÄ¯Ç”`ÇF"—aTsP>‡„˜OBlt-ÂëËuUsquM‡r¸C.ÎÁx Ã¶¾Báj˜„­JQ2s°­ÄwFà3ŸÑøP}`’oöäkçýØj,÷ä5k'®ûkGÃq ˆ½ˆXkªæ/˜Å³›*gÁÐúùçÁ Lš`@Ë§·°4•®Q–JÀáøK"B~î‡0i‹ôgœ¶ G–A3´¿“wÉ{ä}¬#6€Ð^äYòyŽ<O^ /’—T½4^ç,á:ÌFŠª>Wý3äYlx.06íð0r€aO>VµXA‡eB°B,ÄAÞK‡½¾"Ç„]ÂÂƒÂC86t„ª…|…#pf?äc„¦Å¾‚¸“þã‹´UÂ•Aýoáu˜ígZÈšP…’±cKÀŽq©€ÙÚ­äNÖ&æK2o ØÛÂyÂÞ"àžIØÎ¸b‡qäÃp(DÝ½Œ[Üj¨…:h€…°õ í=d@¶ªÏ8ÔæJ˜ƒ}æAëƒ6å7c(îçýà+ØÄ\3I6<ÏÁa¸
+gFœ•™`¡ÛÀ.8 \Ì‹¸LH£E1ä>0köC¤¦ÝÏ.ÒGËúqånB6Vì!¾µráyn½0cz†LÒíö¢ÚB™ÌÌiºLú92d!Ý^,)ÅÊöV{ëÈªV{±½¦²JSøª[+2í2”–×bZVî‡UØ:³Õù²ÈÀˆLk˜ 0—ÀñÞYJm—…ÔqåãËåÕ…6yXa…Íá°ÉûÇ•ËûmŽŠŠYÓ‰#¾WÔÆù±Õ¦Ëš~²Î¡´\f“¡¢µÕ_r:äÕ­­¶V¤ XÞZÞC {Å0ur hY=Ž·¬v:l¬Âép:ÃŠÂYŸ>º´¼Qt ŠaérRQ†ž.;ñeHw§‘õöÖÒò'†¡FÍÚ£ƒõeåO@’ðeC…Mv"pûú=&è¬cTF¤ËÃÖï±Ãär·
+mO€Sø²°"ƒ¯<\=¨ul‡ÿ»±6ñø±’­¤Ž nÚÎãIu²xláñ“`u8I|L|LJ•ÆŸ3¾¢¹Ps¦];ãË:£n4Æ1þ¢¿T‹þý/ayaw„ˆKþxÐ0J¯ê½ñQ<d8c8±*âéÈ”Èu‘m¿_Œ|7ò#¨btHnÙ{coüŠãÆJc­±1àORgÔOueÍ0þúè¸và[ó…ìý™ðöé,ï[úuºfì«ïtF%v œþ—€þ¶OCFôe(*—i¦ÍMã†Vð`C+<"sÔEÉÿÒú_:þ’ÃÞ÷üþ
+j’#ßÏÊv8ÌÁLˆ™â"á|ï`z WùFy’>¥‚¢êõJòé’Ö»‚.î0Ó%Þétúz:Q6ŸtÐ»è§ˆa VèÊaýËGl?Tde‡ËAïò¤9¤ã+Ö{¥ïG<\€'7§G0D ~rôH)pÕð¼¹9¬13)uå´â’iSG”LÝX4iRQáÄ‰m'rÇ!y7ù~0‚‘Îæ
+HŒ^1Ó-t!ç¡«åôK®”Á¡´+;é”DqrÝñ#×bôïGJð2ÅcŽ·uâjF¸æî“¸ãÔ !ŽñY0s>›Mn½ªÑ fÖhålzÉÍuLu&ibsk‰Cy&ž¼S9íÊ)W6*GW}yËG¿6¬W¥MÏ“ŸæÞQR¹`Ýüµï¯8ò\ý‡RîA|‡ùNˆ9ˆïù°Ù£½ _'¾FDÑÄ×†c
+12Šd’Ù¶€¬"tZÛ*²‰ÐÆ¶vrK!m‘‘˜—&·VE@X`¤	½Ñ®Ú˜4ÂÈJ´Y£ÍäN
+Q„œ¡4ŠŒF+R*:“’]‹•wp:Éõ[çÏ­ZÚ ´/ÿ`íD³lÖò¥Êg_½«'Žå“ç,üöv¡|þ”ò+§ŒlztöÏTÝŸ‘./yæØç{'ÔÌ›ü.ð›gàš	Ãï(•zY bAä,Ð‹~¸i®²æ’&‡òè4á|µð^Œ„§×Jq‡Y+<yï½J»÷Á:ƒ${ÿJ
+¢iòWÊsäâÇ„}gZ(u DjQ"ˆI"ÌóXíŽN‰Ä€Ñ‰ÄB$¢ÃªÖO-‰dØi3Ý}Uµ’¶/«4¹­ªÚhk_Îü¾VŽjt´#Æ! —£Ëlñ¤¦9¬Ö ´ÚeB–woòœ–C'ÝríÇ×ˆ$A?¯üÊ¹ËæëKÿF?=¥¼§(_nh_^÷ÌUSª7¬¹êÚ\vª®BŠÆJûðÌí„éžØä†L,’CÐµÎ¢Lj³àÑB²Xß‘¤„•‰qj4Ú."Àì•œ'$i´1uIšû8×â~êÃåmü\ùìßÈØŽ7ÙšæLkn‘ö}#<//R¾=ºñóÕd	¯ùšÔ½@¼i#—o¾ç–…‹of«|jËp”‘rz°!\RŒ)T80„)ƒË!÷T^£½é¢(EžþN|þ»×YÖî€8R!ÊD‹©OÈÁ™pIfe#7µhâ§âÜZÔÕèRÎàìÜÈ4Lmõ"eìÓgºA½*y-3¹hÆy„=Þïª”§i±R‡ò´÷(©œ¤+‡Ñ–£‰¨¡®FêßCÂ!.îA9ƒæ)§A%,”h„ZX9fÇ 1*&ÆBE­`Fáä1U»šìßO2Ø©Ú·e³ü$Ýã–ä‡•§_¹ôåÀn"î=3ðó·Çý¥0ÝwB¢h»ìÐì18’:WŠç7‘° 0$ÆÄÌ¶öÄ“‰h­f$’ižÄDÒè1%X“ÁäŽV¡+˜Üñªbb7UKÑ0+DÓ˜‚åØÅXG*³T~5Ës¡|%:^9Ò¶Wùd½…Ä<I’lSÞ·\¿äöíd÷ý»F('é=•u÷’üÃ³Þ%—ìúùÄŠ–Ï?™öÙ± uŒËý‘Ë\ðRV‹qÂ%lvÝtÅ™+Hú©S8< ¯¸¼,0ÖÃÖ»n’#ë³¨»òzáL	ÑÆ”èÇ¬Û n“)¾¾Òå0´ã×ë”÷¯ò+1,^±rò5%^Ÿ$/ù`ÃÛ?ßPSw-»o+SÎHé(C$ÁÎ™ÌæÔ™äÄ n&DÇÄM‡S,“I½ubwbRªÕ¦h:åcG5KØ%ŸÜ<)ýÚ…ßíS^v]ô¨òé_È6b#õÄ¶M9´ã¶-;ÈŽ­[î&ôñ¿)oNyj×¯úÝäÒ7F¼CJyDyâmòÙ7Ç?)iÿéëO˜%(BÛv7âŸ³=Qç_Ð©ƒaˆjXï,$0ž
+	aÌäÃ¸serG…²VeÚ<NÞWN0¹SBh˜šœ–êòïùVÜùþh±ÆŠ}17F„°p‰òâ”_Öþºí/?¬S¯lš¿lÓŽ)w¿rb3É öº%dåÄ)ÕÙ×}²è‰šÆW¯©Z0í²’™ýÆ|úÀÞw–¿½áÔü!_æÖ&º,ÊY¶Fc
+Ññ³)L5ÐÌ½¬(‡•âÝâÞŽKÅ½ß£Ô‘kñrH@Ý^ê‡‹ b-ÝvÛP—ŒŠ±Œ{á±ÜC
+Ïôl
+'Óp#qUl‹
+g®’£2ãd1D/PåÝNŠ•ŽÔ4¶Ï!/órºùRfklL
+3Hlç³XéÇ}íýw¾î;µvLéÈR¥½åðµ/'ý¼_«¯ÿ{$¹,-ážÚC†Žž\<dúö)/=¦ôß:ÖüÒEYOþÙœ[Œ4/@š‡j ½qêJtßóÑÌi 4Ë]†ËÒÍp…ÚqÉ a<ã¯,V\ˆ®˜¨3)MËÁ¶D3_Z33P¹âÐ£/ÈµÊâ¨ºçù”öš9­]7Ü˜C£•3Êëš5àýûBååiÇ–FebSkêCï„ðJ®/ŒñXÏKõ-ÝÖiÈ^#è˜“ç‰6êæÆ_-2ÛIý;6 öw+ÍWE‰‘,:xÕ—Ê$ìËW~¤Ê)Z5¡zÎì·ÊGÎ¼š¤1ú4é÷Åþ²Ú[îMØy3ò1Íö{gÌòÄö‰x"ò[“ÙÅâîHwI‚ó[Ðq~ó×o,WôŸFåˆåÎjMáû€i(øä¹;æ$¥#²þ}_ÇÜêëòr×¾NS¼$}=ÿ44¯#?ßvw#y°ñx' ‡cà<Xä±&$2¼­&Y°ˆOK÷µ¯ã‹">³-1>3ž6z6Åãî6#ž4ºº-Ø¤^,`ðÛÛPaHIàB³Éu&†;y±s¢®ÔTZùòÖÊ/n=êóŽÜP¿súÆáGïŸTg$7Ó*Iþ¾ï=„Ü |©øÍ]½ôÎ©s„%-õ±3kÙNT¤L“6z7×x’ÓÎg³'›dƒz'²¨u>XˆÃB\ˆt"™t4üÌd2Äu“ŽÇÊ[ä¸P€2K>[fy³ßãMËã.¢‹ÉÏ%u
+PSôõKžY¢Ysì¯‹?Î_]¿µyuÕ=Ïž"ŽEs®½(MÍbšò+ÉZ6»ãØÆ7æÏ-/]Þ˜ßH²ÏèoÙ9‹¼0ë\75hG¨&åA»Î×)³ËˆéäŽdÎ,D0é•ü‡owXÈúÎÍ±G£Æù—5Ûù¯oÞMfJJû¸i«.RÚÑ;ÐªÌñŽ¦O«¸òŒOÃd0·-·ôž½#áÖhânµI†Cp6:®eî"äÖ¨ÏÚì€ÏÛI©d»rýà£G•WÜ\!æ“¸áeeÃÊØW“5ì›ƒ"•?¯^}–ž\Øp,„s&è˜³êÑè>+§Øœ‡^+þýRÃÈDbÈe)Ù¥´Oò˜Î<<‚)C¼×û1Ð¬Dí;–xD¾®zÐ:-´!ä[º!ÂÑXˆºÎÇZ~ú“ø™ª^lrÛc‘Y±þ-& ·è.ù‘•úæ¯_Þô¦ürtÄ”«¥}TÅò<¥]Ì_ºáÞ{¾êC=S'^åíCÝÓËf{1Ÿ™n!]f(ó¢¢{¦+„Nd{nº9ö eh!^{ gk¬JÏÈR}Ë³ÝO™ž-Â°[±ùå—¼E´mjiWB¤ö÷RÄ*ú@Qà.D6ûío§ø»óÖmV{gYX¶9Cl¬]~³dé<œj
+®újë{$ÆD•cJºòq´Ô×.ZT7·…¦Ýu¦UùáóQ¿*o’tBu[ï¹Ë½å¾{Ù~¬Ì‡ ~FÄ¯ÁíÇ/º¿Í8D=¹aŠì~¾tß)øëwwfÛ™™ÇvÛ™Å!Ÿ<½£•ÙV»ëÅ£J{Ýìõ9®õ¯ÑèÓÊ›M
+•Þ»R9¢œÑlÙQ£Õ_¯é›œÓ%1ÒØ)ÎÔ)è´2è©®1<úðÀ	5hP¸ºÒ×.ÎØ‘ƒ(™uWlÍê'ô×-ðó×ü)øw'„7pö˜æ±¥¦uÎ2aç
+¡6¾Ÿ†ëlÇ¨ïâ™˜CžD›½5}¨ã›–ìò›N¯×¸éC¯—_VÐ'j[”•'Ÿ~õgTÎ‰#ÇM92ê3å¥õo.!QâÜŠÒ‰¤¿kHÜøŸozú™mCÇäd]ÜßVöÚ­WîºrÌ„Kš0ß	ºA*ÄóH™øI	ºÖ»¥›]fêB¡åÄÕÅ»¢Š–“[¢Ë²‰­3»â;KŒÆiÌNWŽ™¼ôÄÏJ™8Y9¤¹ã©Pùé°÷ÓÁµïÅ“Zr˜„1>×àz2âÒ2!fÁä¬m’cÖ£å)nF#hO{I
+ß Qæ¶ë¡èéÏu{w?N‰cë-yhÔ¿õ‹OÓç¼E»fS¥ãy†‘ Œ	Ç¨Ð*ŒøÒ¢¶.ÝWŽŒÌí¶›E;ˆ±HsÅ¢3ˆv
+/’\eL\eû%ÃÓ'ŒMRÖ’<r;½«#á¢ÃÑï‘ùâöuÝF•þbaŠG×§ç;LnÿLha¬TuçjåwÛ‚>©NÕÜaµ!pGâ¿seŠçîyZ­ƒ>ê½•$Êž1àâW\wë]#êo%3è¶VB²ËbË†f¶Ü±fqqËÍŒcYô&Ži2ÜâIHIíÄ”‹-ˆ)?	™˜=ŽàG’ç9DÈ´Ç¶™ì'BãcÃÈ823ž›°º-‹#´‰iœF…¾>‚øo\e'«<b{ý='¿oµ9cýÎ°;ª3 p
+Ò§¬.WNÀØ¦!€	‹/ÊîwñÁ]×l~pÝŸ¿uãC¯ìZ6Ul,wöK<oöòÅu‹\°©vÕÚ¦¤l—s*a”¯C™¤‡AÃq—ÔuR~öå»)ôò]-­àý™Ó¬u¥äPÓßö’EÑ8ù‚;–ò¯>*Ø{Öƒ¨îwï!z l¥{b¬F¿:Äô ®]wïHzÔ‚uˆ§IˆB^äª˜D°óF”ÈÙL)ZG(8ùL»|?rú“áÎ³µ+J­]†ßÒ®6¦[´±í&²]ñÛIVÚ{Níâ€=“l¨š.[‘NûgkyûœšÆ¾,º_ˆ9ë&?È€žnòUüíºÉ×t¿Éqºi$‡ä¸´´¦¼ü rŸT¿ªl¾;’ï¼óÎuä¤’}ØÊo…~¤n}KÖä‰à'}•oÕ}AS¬Vs-ðßt·Ý¤Ý®EîÅurXÒòóŽ9‚;j(’hÕ8›6¢ë"_Ûõ#XZŽ5Èní¹ägEŽ¹¤èÚÖnXÓF_«k.2 '‚¬ ·Ý½Îví²å·¯­.nÌbC^#Ï
+)>sÇâ?‹ZºÎk|1é	ž™ùÍ½
+/[WÒ£Ù®Az,ô<b!Ó˜«Ô'D9b’4jôÙž/$ic,\/hþÍkŒEu‹Ö>¼þö‡„¾üËØä–Œ!åþI“‡oZÚò×{þ4äÐq¥8;uùÐìYlUä >xP¡wõQÝ÷H	·oÒ ÄNœü÷Hòèr™RNWÑ»½Óé‚û|>pÑÛè~éa¢%¸ÒÛK¡¿EàRe7úEtuó~/ð~¦Ð;ó¬lìSŒ}ž•öbŸÕ°:±`åàœë%5¬ å°f §0JÚ'h ¾Î‚Ë 1¿@ðþWÃ¼ÞÏ•£´¯wŠðœê7ŒÙˆÛ‡ü7Ö˜}¬øU”jÀÊ¿]üêˆåX^üú†å8^ü†å>¼¼Ë³¤}/ÞÒùµ¥ ëub÷¯0@òÿ‡•þ¯NýÀ?qÕhØŸ*ø{KÅfË
+’ :Ÿ?Tá|2Ù~? ;ÎªT„ ‰ÿ½hõ†nð¯1\µÚzÅ  o=¥¸ôëºy,ìndß¯t¢üã“	ñ0Ÿ–ÂÊ`YÜ;ñ)Æg>yøÔâS…Ï`Z +Î‰ü•ükp>‡ýžÈ7Ãôî}Å‰]í¼Ïpµt”ñ¶ãP$~Ï~SùÇ‚8
+
+Å5°@L‡ñj|Ja¯ßŒð–AMd·zX.fwhá¾Æ¾Ë‘Æë°ï=ŽuçÁ ÚalL|ñ_cÎhžÍ:øKôÔ¶î_1goè½¡7ü_ô4ÚÎÓ~‰ï,|\øáSŒÏû?½sÁî@X«auô÷Æç/…AÂaæå÷†ÞÐzCoèÿÂYgÉa	¿‘Ú›À
+—ƒ8×Fòg ^ÖÂdö_¾¢óÓq÷ôç	:ëÙWNä„48Uy	R±äÏóû4± ®Ä§Ÿ(À´ÏÐ“ š j±<ì0 .„lÜëóàb^ÊÂR^ÈX{çØà[Ýz)>°aÖÂ<?¶tBÉÆ\	¶.ÀúzœÕ#qÆY8Ÿ†cM=¾'tŽjæ¥j|3üaZì?Z'PßÜÐó0È†þ2ô	§ýáq’}~¢5tý§…ùéö(–:ëÄÍ‹§æ;YNZ4stîy,§IIŒ3‡³œ¶ ·_¡ËÏLŠ3²œ>7=›2:¿_–ï8¸½©sà1„kqvÿ?üz²"I³G6a2ÎDZ<«YÒ`"=—X°nKV±$Ó‚cY²€%›XòK|,I´øG,d#²=Æ8¶ ŽYî$Kã°ó–lbÉk,ñ±äÖ/3ž`I¦“K0A^ý'ŽWJø
+endstream
+endobj
+65 0 obj
+<</Type /FontDescriptor
+/FontName /Roboto-Bold
+/Flags 4
+/Ascent 927.73438
+/Descent -244.14063
+/StemV 83.984375
+/CapHeight 710.9375
+/ItalicAngle 0
+/FontBBox [-726.5625 -270.99609 1190.91797 1056.15234]
+/FontFile2 64 0 R>>
+endobj
+66 0 obj
+<</Type /Font
+/FontDescriptor 65 0 R
+/BaseFont /Roboto-Bold
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo <</Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0>>
+/W [0 [443.35938 0 0 0 249.02344] 17 [387.69531 290.52734] 21 27 573.73047 30 [282.22656] 37 [672.85156 0 0 649.90234 0 0 681.15234] 48 [541.50391 0 0 0 645.01953 690.42969 0 614.74609 618.65234] 69 [536.13281 562.98828 521.48438 563.47656 540.52734 0 570.80078 559.57031 265.13672 0 534.17969 0 865.72266 560.05859 565.42969 562.98828 0 364.74609 514.16016 337.89063 559.57031 0 0 0 501.95313]]
+/DW 0>>
+endobj
+67 0 obj
+<</Filter /FlateDecode
+/Length 332>> stream
+xœ]’Ûj„0@ßýŠ<nñ²"ì¥>ôBm?@“q+ÔböÁ¿oœNf&sâ$¼T×J÷Ž…ïv”58ÖõZY˜Æ‡•ÀZ¸÷:à1S½t+áW	B_\Ï“ƒ¡ÒÝcá‡NÎÎlwRcOAøfØ^ßÙîëR{®ÆüÀ Ú±((K¦ ó;½4æµ€…X¶¯”÷nÞûš¿ŒÏÙ ‹‘9ÙÈQÁd	¶ÑwŠÈ?%+nþ)Ðê_ü@Um'¿‹Ù‰ÏŽ¢8*âÏHâ„§H	':%Dg¢IDD¤ä†”‘Ò+R~DŸµóæ±isŽi<&Ÿ+ù§f‚D)Š¥d.rZ$ÉTÈz€#ùPy²š“VFH©{J[gÔ=Íh‘Êóx= )/ÿv¹ÛàäÃZ?3¼(8¬eL½†í.™Ñ,UËûVu¬
+endstream
+endobj
+4 0 obj
+<</Type /Font
+/Subtype /Type0
+/BaseFont /Roboto-Bold
+/Encoding /Identity-H
+/DescendantFonts [66 0 R]
+/ToUnicode 67 0 R>>
+endobj
+68 0 obj
+<</Length1 21796
+/Filter /FlateDecode
+/Length 9011>> stream
+xœí|xGöø›Ù"ÉU’eÛÉÂ6ÅŽÁL'BbChÁtL/¡†fÄ¤i—„’°Ö%CŠ¹P.ÅÂ%áBÊ… 9ÒI°µú¿™•lIv¸»ïîÿý~ß÷cçÛ™};³3ï½yóÊìJ@ ÀŒ™¶~}rú
+ƒ„ ’„wõË2Ìv,ô&Âtr¿aÃ{÷~"ø~ ý
+ š7dXJêÜ6¯½tÛ›P<¾ä×yAë ‚ÓÞ9aþ\[ût× œ7©drñ‚_Çíi}¾6yüœÐC@ègX2¹hÑ¤Ç–¾Y
+Ð.JañÂ1cîC|z`½ðÚ”‰ãë¦YŒõ¹Ø>s
+Þ:l¸àÎ·žR<wáo·p5@Ø±¢™Æ?ñÅ3ÑØÿ5Ä¿°xüÂé’` ºÛÛfŒ/žh“E„ŸE|,%3çÌuC!À°C¬¾döÄ’§'Ý|á±¾? Ð´#ŒCˆ5?)è ðº´Ã<20Ï‚.˜wÇD F!GÈØ–=ð¾Ø§ï <ˆ™°hvÄLž=q:ÄŸ;bpNðp»y[2}âìÈ-Ð ¬c£S){¡Bk+>+¡XÀ÷0k…û¸åá¾ê)¿âù7h»ûŠçêg<b9–ï»¯»—{îãL¹à¹§‰>¿÷¹^èáŸà±ÍúVËÝ×yùwÌ,M<t«q_¿E»Ÿ}®¿ð}* Ý>×?4®Ñžx>œß{¼Q_W~F¡û’û÷WÿÝ7Ù¦Ï
+÷—îG1Ê]é.w3i5º7º¿ãõ„pwÂÍØ¬2žaþ-„zç¶É>¯5ä·Äï[ŸÖ{e‹F~o§ÝÞÜ=¹Þ@ŸVª¯ýÓ‘~€ßäùY¦-Ü¸O©ßzzRž…ç=¼þ8ÃÎý“K÷ûž'žûÍ„û’–£d}äþ¿æWt¸5‰W Ý—5¼8­gpV^ÁüçFOµÂó¯·¤w„@PË#w™6imQ“t€Ž
+i 3d£NéŽÚ¤/ôƒþ0î¡0ò`Œ„ûPÇPÔÁ˜ÂÀ„){2cIÆ>Ò°>EÝ”…º«¦ ìµ3°çllÛ“‘ë¬P%õ‡À@L„&àxÃPçäa`8&÷b
+†Lâ1uÕ}˜ÂŸÑxM!–ã¤acåØP¤/"‘Æ6ø|[LÒš‚­:`2s\	ÒœŽØ0,C8–AË(Ž¥ÅKùÑ—ãÚ©íI¼„X2ŒEŽ±À1Ö!§F fKÇ2ŒciÀÑ2¹Ö"ÓH!IòH_Ò•P¨ƒ_à;øÎÂ)¨†Ã°ÖÂB˜E0	O‚ØˆˆuRT´ã3–Ž<îä™«0GÌÇñF1 f÷jÌ æ†ázð:ëS±Þ„\è‡÷îÂ³?žñŽ§G0â¬½Œµ—±ö2Ö^ÆÚËØÏ(”MŠõá0u-å-G¸?Ç¾E\«#Ü¯`‹“urÙî/¡öIpÌ0þì³<?ŠÙñ(ðù÷Eí*ŽvG»Š£]E|¯âˆW±Ç¿Cê³‘8úh<)pÿû¸‚c8pæ£Ö…«‹@„Û†µÙØ_œU)!ˆÇÇ ;¸“yìà2n—q;¸Ìc‡‚®×Èô¼shæ}‡ö²Áƒ‡Âüî^#0:d0æyCb-·˜2ïY@NÊÈ·†;´ÑÑsÇkk%~W»§/œ1³¦Lš=~Œ)š:y<äó|ÏûÌ˜W<º—`æ²<Õ3*x|ÂFò\ÔŸ,øè:Ë '6”²Ø[`rßìiÉÖŽ$ò1,†90—œçøYpÝDá:ŠhuŒ¼EþDŽ““­dO+s“@&r£Þdòöðö¤õ¢=Çî¯äxGøXÿ¤…õD®{„½Â~Año%(Þš€ñÄúþÙÆG€Ï„àx¯a™‹Þ[¹·lyËÁäuÞr0âZ²™Í¤´]JÃ‡Zi¥p&QÏ„4èÚž>@¿!Cú¡Ùj©*À$ÝvÊ˜µ›Õ‰Ù’‚€Ï/å³Ç¼ÓiAìÐB½mÄ;aØª-ê®”ùnÐz£^ºµãHXTKQÆÐ·„DH®¯ï}P³Ãúñ¬­Èï$ù0íVG;¨€P†Úé,z²wcŸë`êžtÚ^'<Ì®YÔq`¡;À&Ø!XÄ•)n#Òg‘›A$yLr5„ÉŸp©’*†ÜüJB*8DÜk”Õ-*ÂØ1É
+I²Ùr¦öQÈ¸d…&)¤=Y’l}!¾ïÐ|G­ÌVÖ¿°ÌÖ×6e|¡"Æó+&–¤Ø–?ó¼|»Ò³ ¶þrbAAv²"²nDÞMYv0ÍÓÁ4Þ>ïJV¤¤6EHÈÍ¿'_YÑ'VéÙ§ Ön·å(Õ¹ùJuŸX{AA²"×ãˆåÒ©Í4luIŠÜ.YÑk=ËWzÆ*PPV¦A»²¢¬,¶)ðÂÕþð!7zúÞ@ä"+ryÍ
+‡=–ÝpØvÄ° O²bH8,?Q´#ŠAIJ›œd%8Ii‹EHRe")µ•Ë¯ê‰r5áJóò« p¹¤ Vq`ç¶ÒCF¨¿Ç¨MRz–²ÁÈüÊ¶Ð'¶
+Ú
+—û$sM„k¥Žyaã›Láix×“¾ iŽÖo¹LÇb:ZŸÎñ¤RUéQÀÔ_Ü þÉ›$«ÔEZ/—cåÉò{ò{ºÎºBÝsºsúö<ú¥‹†n†‡ßíN.~.øÇ!CN‡6Z–Vv!<%|~øsá?»WþéŒénŸ´âvºþÍôè5Õ™‡˜/Dô¤'-&ËJLÿiúÁòC¤øORÈít;ÝNÿCÉÙSkOJÒvæWzœX16¼ëÏ­çnÙ±ïLw°ò#2ô§›±®ôs4Ô;£ÛwÚ & ×e@¯6f9CŒ&“¹³bT †å2Ï<­AÏ,'_¡)±•´e÷ `î^à)à“NI+tZ¡çEePÈOÎíN(/j¬ù©CG»ÝdL„˜ˆ`'Ä.´qu¥Ç2Õ¨‡IÈ—TPUB].I¹ù¬¤s-¥jMt¡kSJÇ å“E;¸déARœTxç):FŽˆ4WäJò¸ô°º™°¨pÚŽ>.OÇx× JXŠ"²féfs–U¦‚ÎeÕ%$Ò5‹¾[™ðÈÙ4|^ÂšE×èÏÉ“$¯ïâ5]ýb¸ºLýrï¸Y^"y,:HÀ>³ú$Ju‰™æˆŒtJ³¢Ìfš5ïûÕ‰ÛÐüŠûW__@sþ¦NVŸë?k>ùž¤ØÎ©¤eî¬þê^µûŒ§­h(=ˆób¤½`%¨}¾ýãØŸ
+°s{††ªÍÐ[jµ•a°Ùý3™§qüæÚôèpFt8#•Tòy.+=35*Ò"Ç%lî<»K—ÙÇwèÙ³ÃÝ»ßX%¹$D`)~³Ü¡£ÕAÒ*wÓq»–ÊÉ,™ã¾&IÇ0ÞÅøš7ÂÆA^‘%ÈXijÀ]Œ•ÍüH1RG2Œæ´TsDbz‚#NÖ™,Qi©™YbÐÅkß|&^üöêE¡juùCÒõÖ¯h±zD=†‚’vƒô"ÔÕ¡Wÿrî¢úñµKg¿DJö"‚ŸH¯¢Dgk˜IˆŒÔXXAb‚"¦T
+9©Àî¢P:LRF|ýä°ºš[ˆ§×¿ÀâÒÑ(hiH·†h}±;c`ß•V’iS0ZÙPFc¥Á§ÂhTBjœ‘V£6 =ƒdffpD:Ò[§±©"Ä.¦Õõ%¿–/›SöD>ùó5\‹é_×ÐËwŸýHÅÆw~ý¨ò/ê_ÔÄoŒûšðâ— hø…"J¡^ü¢ˆf´Ch4CRœ íÜd–3…]2[	5VÊ>x†òÅÆÊ>E$ð5mTš×`^ÙÊoVÓ£FH&'DÖEa.ÚZg¤ñÉE:dí†U[ÜË«\o½åiW¹A¤ºoY¶ö¡nRéÚÙÖÏzñ«óëLJP–ûûÅƒsÊ6®Z^J™ÌnG)LF™mzŒH@â¥–“Îd+EÔu¡„¡®K©Œñ¹+ébØ]$ÖTÃ8`ñá€Î¨´¨AEa´H9Ò‚b›˜å¡Å§Ó½?€^qý1izéÉ+?ž?ú“é€ióü•î^½(§#=OÏíSçôPûì’ê:÷úÒåÊŽG*3Ú°½Ÿµ¸v‹Å>8cæ_€èpÞæ0]VOB[€¸æ¶‘rá¼ð®PFòˆ¿"ÔàB«?L}IÕT…	Oá|ÝBov
+w<åª~’­áîŸ…ù(+ÍÀÃšf6&Í±JÄ	±L\¢~_¢A“hç¬¬z‰ÎÔA§“#¦‡˜"iêàUy3¦NZRE¿8øú‡O÷?šUÔ©SQÙ¾ ,oÝØâ©ŠF=}òÏ•öÝ³M}+¹[·‘]º0ì›£ùjs¯ƒ Ès‡0|‚ŒŠè±P"b/zIáŠÌìdd¶
+ô"eéýXèâwëTzÄ¥ðžk×ú4éš|Ü5˜\ÿ•,QW£AÊ¥1tÎÇÔ
+¥ˆKDA+ÈoBëµŽ¸ðYS*Ã}ÆÔ‡skÌèÃN°¬ÒLö†µ$;‚¸ÌìñvMí{È…o¯Ï-œ¿^½¬ž$ÝÖîP?W«IÜ²­ËÕ/%åXõ¤ŠööªÇ>£{\?mXLtÛ—-,F^2üO þÁéÕæMbÏ0
+ñAñDP4[quˆ:Á„ë$Í_â²ãÒz7Ù­~rìÃSo|sNR^PO½3ú}õÔsT2×n ÷ð_I_Ó—¾—{ aº¼˜ðYe|eÆ±`ñ•Ô”•zÿÕ`Â¬Âg®õôÓº	Â£®dº€>åª«”]j’‡ÄÁ ½o!LN†F8Èƒ:<C¾ëª¨Öº²éºÊµ”¦&Iœâ¹MØ+nÊ›”ã`‚¹6§Ìfõ4€‘0ClG#xô£™R—%&Ñ=#2å¾òy’<_^+o‘Ÿ“Ê†ÑˆŸñK3¡¨uVWÓu—]oÑi§¨R-’âê@k\Kë>ôð¥9b*AÛ[ðÅ—:Æ3ÒÓÈ4ê¬Ût´y¬õ#åë¥ Ì¯ŸÀ	ç€½A „‘O@äî¦Vñ¢CGMCº"pýF`Iž"È…ßªÍjÜ£ª#¢ZRjïŸÅœEk'ŠÛ\»]ï BžÙÐó¹ä$AÁØW“Âi´:|ôC5'˜ÌŸ ŒÍÄ”&éºGÒ¿½)Þ_»yBœŒkp¾ûšd@mlBÒ¥	Û]Ï´M‘þâÖÜOÜpñ9âZÓÄŒt3:¢92‘ûXºHó±²$ÃfõWe¿úË£ô¼ÿ 	ÞüfÍ‘ƒ§…«¿+Ð=çÔ£/ì!ßŸz†ôÞ·G}ó#J©^ýez­z‰„»À£/…¨y#`ˆ3ÈéÑ½!ÝË™àEœk¾dÒÄ’EÐì‡?[-©":bK´“©Õ4ú:	WoÜP÷‚íÏ>[®î¤Ù.ÔY?½sö«Š‡×?¸S@¼ŠÝA’Œ<Œ„8ÄKïhÍÕ»Q‰öàeBTL-„É)èy¼c2VFûà¥7VÚøª“tñòïñÖ†¬%kq•úÞ]¹õüU¿Õï½ñÊiá4™Ëøû¡úÁˆwýd®çñ^õèG+ãñMõ3Îc¹èÛÌæž\¡ÛÔË¡Ÿ:ŒA †	…lT‚k˜¾ó±*	1\G&ø;31F¥Uæ•q~ä%$dp§3
+}6n±-Q"÷Ùà×–ž@GÜ¸D".l¹ºòèO<´{+™þÞõÚ×[T\Üo=³íé-t}¿¶í¿4÷ÝE«·.YðÀ¤žYùÑœ·—¯~bÉ¹yHWG”­Ün§4AP½‚CRü”jW‘fØÅ­jÒ›j²8I2ßü‡dÞÅ¸µ¹µ{5C7§a©ç–Ÿb1 `ð|=3mæ/}2ètqˆQsTMâ^¢º/¤]W¿¤o¼ôÔ3/JJ]ÜûêM#%ôsá³º„]^Ú%üq@DÄ0ãŽNNÐéëqð3¥~j¤^Y ¸–ˆçGÝ@ž<ãúr¯ë«Ón±òf®¦™º¡Öü–ÓXÐÄ2óSI~‚Î3¯~
+G œkM!ˆé'Y+Byô[³kVÃ#QÇ!_4oKlO“è6­>?ªî> žµZÕw¨OV“?W¿(üZ§WŽ	_ÞÌãgÎ¬ý+×ï#‹¹íëÞÊN`4Æ}1ô_%Ÿ»I§ñHóe#Ig¡Wí¡eÝuáFEÅfñÁ]›€¯ükÂñnh	m`‰ÓÚ¶w²ŒŠÍ³ò­8¦5¦)›Rï™Q+·Á¼@-…ûùhæ`î£‰~N™l¬tø
+=!U_KiõÁ÷}­&‹52ãÚ‡—ÐÆ´òO¾GÈ7/Ï5aíá9Çç9+&¨Á÷ît<¬îŸkºö•{Ž?§°ß=[ó<«†=žoÜ4ò®‹'ï½ŸÑÌdÞ&³¯H¢a’ÓËÐ31* ”† mþN°¤¸Ù´M_mÌ”³5@	:âuÌ_È´™M<^×™Ø:m_V¿WbØ[UBÊ.U=²þÕÜá/¯yŒš~U?|x©®·6¨çT—ôúû{Õ¤½ï£ŒÜ‡3vg¬t[¶ª_-<‰	ÐÑ~º@ÏHd±†…åþ2þ¦…!’`Êð°Ý‘ÀgYN»OxL@š|Æ§jíÜO;ø½þ€¾|ê¦ÛW-9ú…B’H Õ®_JÏ¿4uÝŸ«GN1.E<¿“Ù·U1Èåf±Í›ši\–Sà–øÛIá\æãrÄ-6E"ÒÑR[‘Ç&K4ÃÊ4Q–‰‘1öÚ›oÌ¬Úk˜yâµo«¶­Uî¶¿tMø¤<HÓoÂÜR’þ«îPÍ.òýgö£û‘Ë‘Èç"§žó™10Ê³.8‚1K!FÏ£»˜”—ßŒù †Žtú}‚g„ÖÍe”/Rdh3`6EÚyœœe•Iœ¬³g$$ÐÁÔk|ºòÃ+.‡øÇ²ûKÓf•ªŸ”l3Ó–úR±ÿ÷”«\½¢º?y<·wþiáÔ3†mÚÁ´`W$ë”‰Mt†GYëå†Sbóõ_eH#c:ñ7÷>¡:JD
+‹i¸’‘«N¤´H‡éë}ûïíÙ#(%cäý_-ì+ŸùÒ¦-†©÷Ï.¯Ž|§Ž~@¾GCkXëŒ‹O`<ŠcF#È×¢à^½Åpµ¥É£ÔnæÊÉoSÍÉ+™¾já/Uq¥*íSP‰YÜºe0Ëj¯qWŽž˜iØóÛ™yŸu·`ÿº­3«ß¸zxËºC‡ï]‡‚æ"í7.¬ýìÌ…÷Î|t[Ùè$õÇWOï&ÿØq†Ya áo¸VL0ÀdŽàscôÙJŒ	°½C ¬!ŒaÛÂA~:'3ÍÆ\ømo9Ñ9'÷
+UdêÌ‘¥	UUÂ«[Õ¥®úî¼’qw×±Í`œ4d
+úO„@§ÆúF7‰øî`7’
+jT‚jÐbVÊ¾§v´aÓbxUÕÛÚ&…˜MZ%wï>²+J÷›ê@R€#†@ÓiÖfÚ‰ž+cœfß •m°GÖ(‘)•FÉÏ'1Úã34oDàjêWÝÒméÝ{Eded":™bvmõmócú;‡‰GH«¤f„ñB‘Ù7Ãó|â6›¯’Š	tÀü#L= #³!0Æ<A`zª˜'ä †3‹Ç˜äðÜªª	äžKê(rîòó"uµucBµ««±Ý‰(—Ù·.-|¦Ê0UÚ¬°ÉÐ¾2Ú€ÞÑBnO:E{â·Ò«»˜ R9`AÀâbˆå“>˜¿ÝàS¾{5Í˜ƒjeZ"Ó#¯é^yMg6CÐliÁ©/†f¾8ŸÊUÓ–N.>üõÁ;«Äì…_º{œºÎÕžžš;ç)®TzüÚŽº+b6x×Òe‚<g°gM5¢Ë¯iô÷x0€Z!ØouY—é"/yÛgy‰Ù¥;}—¢EaúéˆU8ÄBŽ3¤yÏ£ßÝ·@“ègôD¿p‹©'f, í´Œ:	4£çÙ=µôoåŸÓ¢K\P¯~~ã¦çöl\ÿMÜ­–©ï«¡»j7’Ô:ÃËç?=éüô<óŒÔqbKŽ]”8#4›ÑŸú­DøñÎÒÝßarJ!>Ò­¬·æ#1·rëçë$µüüèñYU{³Þyë‹ª¥/äÛ·¦‚šn¨g–ºnHçnTÏ«7ÅWÏ>îª}ìCî}¨ã„ëJŠ¼[Û.ê–€ð÷Cþ'$‹m¢4rB®¯ž©GWïð±oª*ÖüáÞü§×î¢	nÒveñÍ*.$ëô‡Ï>BÍåiL·"¡ÐÏ)†…×K0_rM®Ìzûì·Ÿç4k/gH‚¶¤8‡­tk»Ž{U½,Œz>³¹ð˜n‡Äì¥‡±ÕÃ¼·#86‹¢>Q´ß¤7G 9ß	hnàzì='æ~\ðßvinTì5˜W¶ö›ûô„Ö,æ{Ýþq43ºGsOH ³Ô¯ÿ0äÒC_^yÿÄÙÓHäþa—«|{V•´aöÔå¤ÕÀa]óææ®9ôÆcƒfä÷»³O÷‹î}øÀ}7ºx8£Ëà¾FGH=Ñïóñ‚x¬é¥+/àó6„½×…¶™ëóæ‹í+éýèe/BÌL­™˜ÇÃ§?’Ç6Ì#2‘u§Neö²uêŸ³dÙñãROõf¹k|¯^![,[ÊèîrÂ¾ñ,Eî_@}ad;ô&³ÿ†bMš
+h¯«hSžA<wdX¤Î$%UhStúÅWHÕÛgûV)Ó—¿sœV»r~Ù%DÔž@lì¨I#6MÆç~¢19Aò‹ÏÉ÷$äuuÉ&uáëµBÚš¦n }ˆ—!0Î)q£‰þýäÜo4žA0W=’V{ðàñ9C%""MPS¥ß¢þæ†-ê‰CÕ=îºÔžÒëÞ³ëÎ	íøwî œBÜ‚½ozüâ;MFÇÞÉNâÑ±¬0câ4ÈÚæ&‰`†]¥4rã»Õ]¤øÜÍ›!Åê®sô ÙàúÆõ)y\NÔÊ¾\W
+
+bŽ~"ð¯š@Šû…~Óbax„1à÷Ö	ØrÕ ŽÄÄ+†ÌÕøGÝ	uðÄŽœÔ1SãÚªËN‘p¡}m+õ!t‹8hâñ6k½éºO:‚>Û§žûlÐ0¼ßoZ°(êÿb7,Š	f.ŸŠ0æç;-Qaž÷H¤á½n¦uA8µÓ}®=$©¸g×ý*ž'úíÓóRNw‘˜I9»ê<û±å3¦Lò0ûÝL·#†	°ÑióÑa~òW»QŒAÑaÚ«Ýƒ3a9”ƒ0ÚÙÈ¬ƒáÐ
+RÄ_ñ"ÆºŒAaÑž÷O	bÃ]Çël¡õm¬´Q_]Wož}ßòjŠ®þ-o¢ƒòÜÕ£oçÏ,Y¿³oïÇ÷–®~n×;ûöß™/NêÖ!9;­íý,š’5*ºmù´¥Ë¦'wíš6‹ýVm1ÝA®óý´^Nâ³^¿ÎòïC˜÷u>q˜tñiäzÅÇd‚§¼ ó
+¶ÙfÓ0VØ·¨Ùg#Y‰ÄúÌzrÊŒÞâìÞÌ
+·ÂÕó9£aS¯í´`m­ù·bÏf4kr0 
+¨ÿ<*eñ©}û>x½d_«¥³LýôSÚÿðaŒNï{åT·©Ó§Áè×¢…odö=ü3b`¶ùj?ÿ¨¢æFoÚt¾»bl/Z	«ÑLµ†œƒ£Ìœ<	5u‡%ƒÞþúëª}ûHuåDÒ¾Jš`93±Cdç¿x¨ÛÍ6Œïˆ¥œŠX&¢nÝøE.^€¿®ö"ÍÉñÓh^ í¼@[Úzis àð‰$2Àf¬´ûP_ƒdà¼Ä69#öFóƒ3ÄçÈw÷€lÖ¦kö‚©/V©%â#Ðúì'hS7­hgŸ>mþ8gÚ@Q"hGÀî¥±m%v¿%Sb7¢WÄF$ñ="¥‘Ã>ˆà_@4E¤gFM>m7ùSè™cmÊÕ_ò´Én˜ý:ö«.¶èö	¶¦ur³Àm"ýu²%2Œ›¨0Ëï©fÏÇ6ÿšNnJ#/Æ)¸.D¢fÊôQI^Äê_x‰i¬’Eºúª#®ŒØïNÜ?Ó
+¤;¬p—Sh­ElŠ±Æç«f¾zÆó‰•‘ú;ª~zZÛïÑœRk"‹F#™ÃD+¶mÚ°“ìØ°i­([#nX-’œ§_ÚÿäCÏ¼´¿BWýòÿô
+³>ˆÓvÄ)ÁûvÚo¾(âFb	ÎJ³ƒ+`3<‰¦¦‘•×ÊÐ@+`^œ-lšâþÏ­ùó­¬Ì(¤ïyœËX¿oˆ¼ôù}Cdhê¢h¤%]´ß7D>Ó¢3r5Á¿!ÒyÑ¾!ªÿ„¨$•\TŸ‰ê5`Eù“k=/ïZÙë®»ôïBV‘GVïm±~Ñ’‡—Mœ0°O÷ÁíÝnÈ¥›h…tHÐ‘c(<Ûøw{9>ßáq8ö…Ñ(l÷¼ô"¶;ÉÛý_KuèˆmîÅšµü›¹ÈÙ3žïÜ¨ŒkÁžïÊ¶rØóåÂÑ^‡pKé>o±h¿&áeƒ^løåøo˜¨(áÁñÆj$A–A–øYÒËx€$É²´FüãI$‰R‰êµkAu¢Øäo‘ø0Ú¥nMM³­Ñ!Izö±€Gcf6¾õ/özûøßyx–¤ÄW®®H0ô¿«0tüõŸP)ldß7¤ö÷;&a2}ÖÐ·Ñ‚ø4âi,lY\sðÜ‹çh<Ç°z,·7êë;Xë½ÿkƒpr:As±ø?BH=`¸Ï"hô’ˆ÷ï†=rì‘^ÆsÌ—BxYÌû}rÅÐQê %+4×E³÷îž1OÁˆÀþêëFB±¸6Šà>qŒ»Áhzºâ½qâØH¾‡Mä÷›b–ßÃN ÄiØ~3ŒâÏm„±ô,mXV€Aœ
+¥Âg`—h/Ü€¶Â;Lÿ÷z#àëÐýwêÿÿóöqû¸}Ü>¼‡ðtùŸÆá÷q´7@Wù¬vúÖytçb<s½:ËQÿé˜¬¿ÿF_Â"æ×ß>n·ÛÇíãöñç¸U,)>ëøU%”cT•‡a¯ã†±=)Úšÿ?†Á0’ýÓŽhÀë1pŸçš@Zgíšâ½=×‚Ï}ÑçZÂ¸·¹çZfßˆÃP˜	÷ã9Ïd„0B†yPãa6Æ—1ŸS±nØ î€ŽÆÿÑ‘Aì?Ù²žñíïN<K`ÞŠ-¦à=ïSñªÖÎÄûEø¼úã°ôÂ;EX­j‡&bÉð™y!¶ôlú¸§ùÇÿÞC	i¯@{p#mOœ&‚ù«¦ìñ±FÐ·‡WÉ]]î°[ðòUšW§6üJzgz|»ÇîÚ>š]I™IqÑáìJž5ºoj,»Ò=¼à¾l»Ò/›œÛ9†]òr2x/AóÇÌlÁ®‚WÞ­µùÄY6¡+»
+µC2»
+ëššØÜÄ®Â{¦·mÁŸ5æöÒ°§9X‡hÿ×ãìCæ8Ç²l9ËRbÈ\ç–ÍdY9Ë°ÌÍ²V1d{b{b{bž3¼%{–e×YÖª%¶Ë²r–}À27Ëz´ÄÆ3Y–bÃv31C^þ?¦ú¥%
+endstream
+endobj
+69 0 obj
+<</Type /FontDescriptor
+/FontName /Roboto-Regular
+/Flags 4
+/Ascent 927.73438
+/Descent -244.14063
+/StemV 53.222656
+/CapHeight 710.9375
+/ItalicAngle 0
+/FontBBox [-736.81641 -270.99609 1148.4375 1056.15234]
+/FontFile2 68 0 R>>
+endobj
+70 0 obj
+<</Type /Font
+/FontDescriptor 69 0 R
+/BaseFont /Roboto-Regular
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo <</Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0>>
+/W [0 [443.35938 0 0 0 247.55859] 11 [174.31641 341.79688 347.65625 0 0 0 275.87891 263.18359 412.10938] 20 25 561.52344 30 [242.1875 0 0 548.82813 0 472.16797 0 652.34375 622.55859 0 655.76172 568.35938 552.73438] 47 [626.95313 538.08594 873.04688 712.89063 687.5 630.85938 687.5 0 593.26172 596.67969 648.4375 636.23047 887.20703 0 0 598.63281] 69 [543.94531 561.03516 523.4375 563.96484 529.78516 347.16797 561.03516 550.78125 242.67578 238.76953 506.83594 242.67578 876.46484 551.75781 570.3125 561.03516 568.35938 338.37891 515.625 326.66016 551.26953 484.375 751.46484 495.60547 473.14453] 444 [567.87109]]
+/DW 0>>
+endobj
+71 0 obj
+<</Filter /FlateDecode
+/Length 322>> stream
+xœ]’Ënƒ0E÷|…—é"óHZ	!…¤‘Xô¡Ò~ ØCj©Ë8þ¾öM¤":×3¾Æñ±95Z9¿ÛI´àØ ´´0OW+€õpQ:â)“J¸•ð)ÆÎD±on—ÙÁØèaŠÊ’±øÃ¯ÎÎ.lsSQüf%X¥/lóul=·Wc~`íXU“0ø^:óÚÀblÛ6Ò¯+·l}Ï½âs1ÀRdNiÄ$a6 ÛéDeâ¯Š•gUhùo}O]ý ¾;‹Õ¹¯N’4©ñ'¤¬ z&: ¥œèD”‘2ª,°’×Ç NRL°zÝœïAklJN”`OžäÂ÷$®fÑ_9'ñ‘Ä‰9‰ç¿@±¦t´YF~E†bN%¹ïøš•Ò…|›Š¸Zë‚§ 'f 4ÜŠ™Lè
+÷/_~¦
+endstream
+endobj
+5 0 obj
+<</Type /Font
+/Subtype /Type0
+/BaseFont /Roboto-Regular
+/Encoding /Identity-H
+/DescendantFonts [70 0 R]
+/ToUnicode 71 0 R>>
+endobj
+xref
+0 72
+0000000000 65535 f 
+0000000015 00000 n 
+0000030326 00000 n 
+0000000093 00000 n 
+0000039706 00000 n 
+0000050391 00000 n 
+0000000130 00000 n 
+0000000216 00000 n 
+0000000731 00000 n 
+0000001241 00000 n 
+0000001715 00000 n 
+0000002227 00000 n 
+0000002703 00000 n 
+0000003318 00000 n 
+0000003835 00000 n 
+0000004316 00000 n 
+0000004826 00000 n 
+0000005340 00000 n 
+0000005861 00000 n 
+0000006383 00000 n 
+0000006858 00000 n 
+0000007333 00000 n 
+0000007824 00000 n 
+0000008316 00000 n 
+0000008816 00000 n 
+0000009322 00000 n 
+0000030689 00000 n 
+0000011399 00000 n 
+0000011888 00000 n 
+0000012380 00000 n 
+0000012875 00000 n 
+0000013399 00000 n 
+0000013917 00000 n 
+0000014428 00000 n 
+0000014902 00000 n 
+0000015376 00000 n 
+0000015849 00000 n 
+0000016329 00000 n 
+0000016830 00000 n 
+0000017343 00000 n 
+0000017854 00000 n 
+0000018375 00000 n 
+0000018893 00000 n 
+0000019421 00000 n 
+0000019925 00000 n 
+0000020460 00000 n 
+0000020935 00000 n 
+0000021471 00000 n 
+0000021713 00000 n 
+0000021957 00000 n 
+0000022202 00000 n 
+0000022709 00000 n 
+0000023209 00000 n 
+0000023698 00000 n 
+0000031112 00000 n 
+0000026486 00000 n 
+0000027018 00000 n 
+0000027526 00000 n 
+0000028030 00000 n 
+0000028532 00000 n 
+0000029056 00000 n 
+0000029545 00000 n 
+0000031385 00000 n 
+0000031455 00000 n 
+0000031504 00000 n 
+0000038468 00000 n 
+0000038705 00000 n 
+0000039303 00000 n 
+0000039842 00000 n 
+0000048940 00000 n 
+0000049180 00000 n 
+0000049998 00000 n 
+trailer
+<</Size 72
+/Root 63 0 R
+/Info 1 0 R>>
+startxref
+50530
+%%EOF
