@@ -32,21 +32,23 @@ int search(int inorder[],int st,int end,int curr){
 
 
 Node* buildTree(int preorder[],int inorder[],int st,int end){
-    static int idx = 0;
-    int curr = preorder[idx];
-    idx++;
-
+    
+    static int idx = 0; 
     if(st>end)
     return NULL;
     
-    Node* root = new Node(curr);
-    int pos = search(inorder,st,end,curr);
-    if(st==end)
-    return root;
+    int curr = preorder[idx];
+    idx++;
+    Node* node = new Node(curr);
 
-    root->left = buildTree(preorder,inorder,st,pos-1);
-    root->right = buildTree(preorder,inorder,pos+1,end); 
-    return root; 
+    if(st==end)
+    return node;
+
+    int pos = search(inorder,st,end,curr);
+   
+    node->left = buildTree(preorder,inorder,st,pos-1);
+    node->right = buildTree(preorder,inorder,pos+1,end); 
+    return node; 
 }
 
 int main(){
