@@ -42,7 +42,7 @@ void printLevelOrder(Node* root){
 
     else if(!q.empty())
     q.push(NULL);
-        
+        cout<<endl;
      }
 
 }
@@ -155,8 +155,8 @@ int main(){
     root->right->right->right = new Node(9);
     root->right->right->right->right = new Node(10);
     
-    // printLevelOrder(root);
+    printLevelOrder(root);
     int height = 0;
-   cout << optDaimeter(root,&height);
+//    cout << optDaimeter(root,&height);
     return 0;
 }
