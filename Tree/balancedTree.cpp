@@ -38,6 +38,18 @@ bool isBalanced(Node* root){
     return (abs(lheight-rheight) <= 1)? true: false;
 }
 
+
+bool optIsBal(Node* root,int *height){
+    if(root == NULL)
+    return true;
+    int lh = 0, rh = 0;
+    if(optIsBal(root->left,&lh) == false || optIsBal(root->right,&rh) == false)
+    return false;
+
+    *height = max(lh,rh) + 1;
+    return (abs(lh-rh) <= 1) ? true : false ;
+}
+
 int main(){
     Node* root = new Node(1);
     root->left = new Node(2);
@@ -46,9 +58,9 @@ int main(){
     root->left->right = new Node(5);
     root->right->left = new Node(6);
     root->right->right = new Node(7);
-    root->right->right->left = new Node(23);
-    root->right->right->left->right = new Node(12);
-
-    cout<<isBalanced(root);
+    // root->right->right->left = new Node(23); 
+    // root->right->right->left->right = new Node(12);
+    int height = 0;
+    cout<<optIsBal(root,&height);
     return 0;
 }
