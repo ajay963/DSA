@@ -48,7 +48,7 @@ int treeDist(Node *root,int k,int dist){
     if( left != -1)
     return left;
 
-    return treeDist(root->left,k,dist+1);
+    return treeDist(root->right,k,dist+1);
 }
 
 int disBtwNode(Node* root,int n1,int n2){
@@ -60,14 +60,16 @@ int disBtwNode(Node* root,int n1,int n2){
     return d1+d2;
 }
 int main(){
-     Node* root = new Node(1);
+    Node* root = new Node(1);
     root->left = new Node(2);
     root->right =  new Node(3);
     root->left->left = new Node(4);
     root->left->right = new Node(5);
     root->right->left = new Node(6);
     root->right->right = new Node(7);
+    root->right->right->left = new Node(10);
+    root->left->right->right = new Node(12);
 
-    cout<<disBtwNode(root,2,6);
+    cout<<disBtwNode(root,4,10);
     return 0;
 }
