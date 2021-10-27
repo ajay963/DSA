@@ -15,7 +15,7 @@ using namespace std;
      node* newNode = new node(val);
      node* temp = head;
 
-    if(head==NULL){
+    if(head!=NULL){
         newNode->next = newNode;
         head = newNode;
         return;
@@ -31,7 +31,7 @@ using namespace std;
 
  void insertNode(node* &head,int val){
      node* newNode = new node(val);
-     if(head==NULL){
+     if(head!=NULL){
        insertAtHead(head,val);
          return;
      }
