@@ -48,43 +48,50 @@ void insert(ListNode* &head,int val){
 class Solution {
 public:
      
-    ListNode* addTwoNumbers(ListNode* &l1,ListNode* &l2) {
-     ListNode* temp = NULL;
-     insert(temp,1);
-     ListNode* sumLL = temp;
-     int sum = 0;
-     int carry = 0;
-       while( l1 != NULL || l2 != NULL){
-            
-            int l1D = (l1 != NULL )? l1->val : 0 ;
-            int l2D = (l2 != NULL )? l2->val : 0 ;
-
-            if(l1D + l2D + carry < 10){
-            sum = l1D + l2D + carry;
-            carry = 0;}
+   ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        if(l1==NULL && l2==NULL)
+            return NULL;
+        if(l1==NULL)return l2;
+        if(l2==NULL)return l1;
+        ListNode* t = NULL;
+        ListNode* head=NULL;
+        ListNode* p=l1;
+        ListNode* q=l2;
+        int carry=0;
+        while(p!=NULL || q!=NULL){
+            int sum=0;
+            if(p!=NULL){
+                sum+=p->val;
+            }
+            if(q!=NULL)
+                sum+=q->val;
+            sum+=carry;
+            carry=sum/10;
+            ListNode* k = new ListNode(sum%10);
+            if(head==NULL){
+                t=k;
+                head=t;
+            }
             else{
-                sum = (l1D + l2D +carry ) % 10 ;
-                carry = (l1D + l2D + carry) / 10;
-            }  
-            insert(temp,sum);
-            if(l1 != NULL)
-            l1 = l1->next;
-            
-            if(l2 != NULL)
-            l2 = l2->next;
+                t->next=k;
+                 t=t->next;
+            }
+           if(p!=NULL)
+            p=p->next;
+            if(q!=NULL)
+            q=q->next;
+        }
+    
+        if(carry>0){
+            ListNode* k = new ListNode(carry);
+            t->next=k;
+        }
+        return head;
+    }};
 
-            
-       } 
-         if(carry != 0)
-         insert(temp,carry);
-
-         return sumLL->next;
-    }
-};
-
-void printSum(ListNode* head){
+void print(ListNode* head){
     while( head != NULL){
-        cout<<head->val;
+        cout<<head->val<<" ";
         head = head->next;
 }}
 
@@ -104,7 +111,8 @@ int main(){
     // printSum(l1);
 
     // addTwoNumbers(l1,l2);
-    printSum(sol.addTwoNumbers(l1,l2));
+ 
+     print(sol.addTwoNumbers(l1,l2));
     return 0;
 }
 
