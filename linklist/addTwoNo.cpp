@@ -23,64 +23,96 @@ using namespace std;
 
 class ListNode{
     public:
-    int data;
-    ListNode* nextNode;
-
-    ListNode(int val){
-        data = val;
-        nextNode = NULL;
+    int val;
+    ListNode* next;
+    
+    ListNode(int data){
+        val = data;
+        next = NULL;
     }
 };
 
- void push(ListNode* &node,int val){
-       if(node == NULL)
-       node = new ListNode(val);
-        
-       ListNode* newNode = node;
-       while( newNode->nextNode != NULL){
-           newNode = newNode->nextNode;
-       }
-       newNode->nextNode = new ListNode(val);
+void insert(ListNode* &head,int val){
+    if(head == NULL){
+        head = new ListNode(val);
+        return; 
+        }
+    ListNode* newNode = head;
+    while( newNode->next != NULL ){
+        newNode = newNode->next;
     }
+    newNode->next = new ListNode(val);  
+}  
 
-ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-    ListNode* node ;
-     int sum = 0;
-     int carry = 0;
-       while( l1->nextNode != NULL ){
-         
-            if(l1->data + l2->data < 10)
-            sum = l1->data+l2->data + carry;
+
+class Solution {
+public:
+     
+   ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        if(l1==NULL && l2==NULL)
+            return NULL;
+        if(l1==NULL)return l2;
+        if(l2==NULL)return l1;
+        ListNode* t = NULL;
+        ListNode* head=NULL;
+        ListNode* p=l1;
+        ListNode* q=l2;
+        int carry=0;
+        while(p!=NULL || q!=NULL){
+            int sum=0;
+            if(p!=NULL){
+                sum+=p->val;
+            }
+            if(q!=NULL)
+                sum+=q->val;
+            sum+=carry;
+            carry=sum/10;
+            ListNode* k = new ListNode(sum%10);
+            if(head==NULL){
+                t=k;
+                head=t;
+            }
             else{
-                sum = (l1->data + l2->data) % 10 ;
-                carry = (l1->data + l2->data) / 10;
-            }  
-            push(node,sum);
-            l1 = l1->nextNode;
-           l2 = l2->nextNode;
-       } 
-         
-       return node;
- }
+                t->next=k;
+                 t=t->next;
+            }
+           if(p!=NULL)
+            p=p->next;
+            if(q!=NULL)
+            q=q->next;
+        }
+    
+        if(carry>0){
+            ListNode* k = new ListNode(carry);
+            t->next=k;
+        }
+        return head;
+    }};
 
-
-void printSum(ListNode* node){
-    while( node->nextNode != NULL){
-        cout<<node->data;
-    }
-}
+void print(ListNode* head){
+    while( head != NULL){
+        cout<<head->val<<" ";
+        head = head->next;
+}}
 
 int main(){
-    ListNode* l1 = new ListNode(2);
-    ListNode* l2 = new ListNode(5);
+    Solution sol;
+    ListNode* l1 = NULL;
+    ListNode* l2 = NULL;
+    
+    for(int j = 0;j<7;j++)
+    insert(l1,9);
+   
+    for(int j = 0;j<4;j++)   
+    insert(l2,9);
 
-    push(l1,7);
-    push(l1,3);
-    push(l2,6);
-    push(l2,4);
+    // insert(l2,34);
+
+    // printSum(l1);
 
     // addTwoNumbers(l1,l2);
-    printSum(addTwoNumbers(l1,l2));
+ 
+     print(sol.addTwoNumbers(l1,l2));
     return 0;
 }
 
