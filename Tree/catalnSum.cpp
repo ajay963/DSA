@@ -14,6 +14,6 @@ int catlanSum(int n){
 
 int main(){
     for(int j=0; j<10; j++)
-    cout<<catlanSum(j)<<" ";
+    cout<<catlanSum(j)<<" f";
     return 0;
 }
