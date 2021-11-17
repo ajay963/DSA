@@ -36,9 +36,13 @@ void disp(node* head){
     }
 
 void insertAtHead(node* &head,int val){
-   node* n = new node(val);
-   n->next=head;
-   head=n;
+//    node* n = new node(val);
+//    n->next=head;
+//    head=n;
+
+    node* temp = head;
+    head = new node(val);
+    head->next = temp;
 }
 
 bool search(node* head,int val){
