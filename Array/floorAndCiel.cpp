@@ -33,17 +33,16 @@ int ciel(int arr[],int size,int key){
     if(key<arr[mid]){
      res = arr[mid];
      end = mid -1;
-
+    }
     if(key>arr[mid])
       st = mid +1;
-    
     }
-    return res;
-}
+    return res;}
+
 int main(){
     int key;
     cin>>key;
-    int arr[] = { 1, 2, 3, 4, 8, 10, 10, 10, 12, 19};
+    int arr[] = {1, 2, 3, 4, 8, 10, 10, 10, 12, 19};
     cout<<floor(arr,10,key);
     return 0;
 }
