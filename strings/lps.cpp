@@ -3,8 +3,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void lps(string pat){
-  vector<int> lps(pat.length(),0);
+vector<int> lpsComputing(string pat){
+  vector<int> lps(pat.length(),0);  // <- initilizing vector with pat.lenght size and all value with zero
   int len = 0;
   int i = 1;
   while(i<pat.length()){
@@ -22,13 +22,31 @@ void lps(string pat){
       }   }
      
   }
-  for(int i =0; i<lps.size(); i++)
-  cout<<lps[i]<<" ";
+  return lps;
 }
+
+void pattSearch(string txt,string patt){
+    vector<int> lps = lpsComputing(patt);
+    int i =0;
+    int j =0;
+    while(i<txt.length()){
+        if(txt[i] == patt[j]){
+            i++;
+            j++;
+        }
+        if(j == patt.length()){
+            cout<<i-j<<" ";
+            j = lps[j-1];
+        }
+        else if(i<txt.length() and txt[i] != txt[j]){
+            ( j!= 0) ? j = lps[j-1] : i++;
+        }
+    }
+} 
 
 int main(){
     string txt = "abcabcabddeabc";
     string pat = "abc";
-    lps("ccccc");
+    pattSearch(txt,pat);
     return 0;
 }
