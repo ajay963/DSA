@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int solve(vector<int> a,int sum){
+int solve(vector<int> a){
     unordered_map<int,int> s;
     int res = 0;
     int pre_sum = 0;
@@ -28,7 +28,7 @@ int solve(vector<int> a,int sum){
 
 int main(){
     vector<int> a = {0,0,1,1,1,1,1,0};
-    int sum = 0;
-    cout<<solve(a,sum);
+    // int sum = 0;
+    cout<<solve(a);
    return 0;
 }
