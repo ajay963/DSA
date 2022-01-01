@@ -12,40 +12,28 @@ using namespace std;
      }
  };
 
+int counter(Node* head);
 
 void isInterSect(Node* head1,Node* head2){
-   int ctr1 = 0, ctr2 = 0;
-   Node* temp1 = head1; 
-   Node* temp2 = head2;
-   
-   //counting size of linkedList
-   while(temp1!=NULL or temp2!=NULL){
-       if(temp1!=NULL){
-       ctr1++;
-       temp1=temp1->next;
-       }
-       if(temp2!=NULL){
-           ctr2++;
-           temp2=temp2->next;
-       }
-   }
+  int ctr1 =counter(head1);
+  int ctr2 =counter(head2);
 
-   //Finding Geater linkedList
-   if(ctr1>ctr2){
-       for(int i=0;i<=(ctr1-ctr2);i++)
-       head1 = temp1->next;
-   }else{
-       for(int i=0;i<=(ctr2-ctr1);i++)
-       head2 = temp2->next;
-   }
+
+  if(ctr1>ctr2){
+      for(int i=0;i<(ctr1-ctr2);i++)
+       head1=head1->next;
+  }
+  else{
+      for(int i=0;i<(ctr2-ctr1);i++)
+       head2=head2->next; }
    
    //Finding Intersection
    while(head1!=NULL and head2!=NULL){
     if(head1==head2){
     cout<<head2->data;
-    head1 = head1->next;
-    head2 = head2->next;
     return;}
+     head1 = head1->next;
+    head2 = head2->next;
    }
    cout<<"No InterSection Point"<<endl;
 }
@@ -74,6 +62,15 @@ void print(Node* head){
     }
 }
 
+int counter(Node* head){
+    if(head==NULL)
+    return -1;
+    int ctr=0;
+    while(head!=NULL){
+    ctr++;
+    head=head->next;}
+    return ctr;
+}
 int main(){
     Node *head1 = NULL;
     Node *head2 = NULL;
@@ -98,6 +95,6 @@ int main(){
     cout<<endl;
     print(head2); 
     cout<<endl;
-    // isInterSect(head1,head2);
+    isInterSect(head1,head2);
     return 0;
 }
