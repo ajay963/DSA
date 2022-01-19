@@ -11,9 +11,3 @@ class MyStack{
     void push();
 };
 
-void Mystack :: pus(int val){
-    
-}
-int main(){
-
-}
