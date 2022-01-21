@@ -1,0 +1,1 @@
+{"name":"Local: binarySearch","url":"c:\\Users\\Ajay\\Desktop\\DSA\\binarySearch.cpp","tests":[{"id":1637479147276,"input":"6 4\n1 2 3 4 5 6","output":""},{"id":1637480049048,"input":"6 4\n1 2 3 4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ajay\\Desktop\\DSA\\binarySearch.cpp","group":"local","local":true}
