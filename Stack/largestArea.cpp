@@ -28,7 +28,6 @@ int largeArea(int n,vector<int> arr){
         nextIdx.push_back(ans);
         nextSm.push(i);
     }
-    
     reverse(nextIdx.begin(),nextIdx.end());
     int curr =0,res =0;
     for(int i=0;i<n;i++){
@@ -36,14 +35,14 @@ int largeArea(int n,vector<int> arr){
         curr += (i-prevIdx[i]-1)*arr[i];
         curr += (nextIdx[i]-i-1)*arr[i];
         res = max(res,curr);
-        cout<<nextIdx[i]<<" ";
     }
-    cout<<endl;
+
     return res;
 }
 
 int main(){
     vector<int> arr = {6,2,5,4,1,5,6};
+
     cout<<largeArea(arr.size(),arr);
     return 0;
 }
