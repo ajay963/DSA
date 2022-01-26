@@ -12,39 +12,88 @@ class Node{
     }
 };
 
-    Node* segregate(int N, Node *head){
-        Node* evSt = NULL;
-        Node* evPtr = NULL;
-        Node* oddSt = NULL;
-        Node* oddPtr = NULL;
+
+
+    Node* removeDuplicates(Node *head){
+        Node* node = new Node(-1);
+        Node* ansNode = node;
+        node->next = head;
+        node = node->next;
         
-        Node* head1 = head;
-        while(head!=NULL){
-            if(head->data%2==0){
-                if(evSt==NULL){
-                    evSt = head;
-                    evPtr = head;
-                }else{
-                    evPtr->next = head;
-                    evPtr = evPtr->next;
-                }
-            }else{
-                if(oddSt==NULL){
-                    oddSt = head;
-                    oddPtr = head; 
-                }else{
-                    oddPtr->next = head;
-                    oddPtr = oddPtr->next;
+        int data = 0;
+        while(node->next!=NULL){
+            Node* item = node->next;
+            while(item!=NULL and node->data == item->data){
+                data = item->data;
+                Node* temp = item; 
+                node->next = item->next;
+                delete temp;
+                item = item->next;
+            }
+    
+            if(node->data == data){
+                if(node!= NULL){
+                    node->data = node->next->data;
+                    Node* temp = node->next;
+                    node->next = node->next->next;
+                    delete temp;
+
+                    node = node->next;
                 }
             }
-        head = head->next;
+            else
+            node = node->next;
         }
-        oddPtr->next = NULL;
-        if(evSt==NULL)
-        return head1; 
-        evPtr->next = oddSt;
-        return evSt ;
+            cout<<endl;
+            if(data == node->data)
+            delete node;
+                
+        return ansNode->next;
     }
+
+
+
+Node* inPlace2(Node* head){ 
+    if(head==NULL or head->next==NULL)
+    return head;
+    
+    Node* node = head;
+
+    vector<int> arr;
+    while(node!=NULL){
+        arr.push_back(node->data);
+        node = node->next;
+    }
+   
+  Node* ansNode = new Node(-1);
+  Node* ansNodeHead = ansNode;
+//   int n = arr.size();
+
+  int st=0, end=arr.size()-1;
+  while(st<end){
+   Node* temp = new Node(arr[st]);
+   ansNode->next = temp;
+   ansNode = ansNode->next;
+//    cout<<ansNode->data<<" ";   
+
+   Node* temp2 = new Node(arr[end]);
+   ansNode->next = temp2;
+   ansNode = ansNode->next;
+//    cout<<ansNode->data<<" ";
+
+   st++; end--;
+  }
+
+  if(arr.size()%2==1){
+      Node* temp = new Node(arr[st]);
+      ansNode->next = temp;
+      ansNode = ansNode->next;
+  }
+  ansNode->next = NULL;
+  cout<<endl;
+  
+  return ansNodeHead->next;
+}
 
 void display(Node* head){
     while(head!=NULL){
@@ -60,15 +109,16 @@ int main(){
     
     Node* head = new Node(-1);
     Node* ans = head;
+
+    int val;
     for(int i=0;i<n;i++){
-     int val;
      cin>>val;
      Node *temp = new Node(val);
      ans->next = temp;
      ans = ans->next;
     }
     
-    Node* res = segregate(n,head->next);
+    Node* res = removeDuplicates(head->next);
     display(res);
     return 0;
 }
