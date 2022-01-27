@@ -39,7 +39,6 @@ class Node{
             }
             node = node->next;
         }
-            cout<<endl;
             if(data == node->data)
             delete node;
                 
@@ -113,7 +112,7 @@ int main(){
      ans = ans->next;
     }
     
-    Node* res = removeDuplicates(head->next);
+    Node* res = inPlace2(head->next);
     display(res);
     return 0;
 }
