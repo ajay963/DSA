@@ -27,21 +27,16 @@ class Node{
                 data = item->data;
                 Node* temp = item; 
                 node->next = item->next;
-                delete temp;
                 item = item->next;
+                delete temp;
             }
     
             if(node->data == data){
-                if(node!= NULL){
                     node->data = node->next->data;
                     Node* temp = node->next;
                     node->next = node->next->next;
                     delete temp;
-
-                    node = node->next;
-                }
             }
-            else
             node = node->next;
         }
             cout<<endl;
