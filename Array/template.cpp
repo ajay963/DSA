@@ -1,31 +1,60 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int maxFXVI(int n, vector<int> &arr){
-    unordered_map<int,int> ans;
-    
-    for(int i=0;i<n;i++)
-    ans[arr[i]]++;
-    
-    int res =0;
-    for(int i=0;i<n;i++){
-        res = max(res,n-ans[arr[i]]);
-        // cout<<res<<" ";
+ int count(vector<int> arr,int key,int n){
+        int st = 0;
+        int end = n-1;int mid =0;
+        while(st<=end){
+            mid = st+(end-st)/2;
+            if(arr[mid]==key)
+            st = mid+1;
+            
+            if(key>arr[mid])
+            st = mid+1;
+            
+            if(key<arr[mid])
+            end = mid-1;
+        }
+        return st;
     }
-    // cout<<endl;
-    return res;
-}
+    vector<int> countEleLessThanOrEqual(vector<int> arr1,vector<int> arr2, 
+                                 int m, int n)
+    {
+      sort(arr2.begin(),arr2.end());
+      vector<int> ans;
+      
+      for(int i=0;i<n;i++){
+          int ct = count(arr2,arr1[i],n);
+          ans.push_back(ct);
+      }
+      
+    
+        return ans;
+    }
 
 int main(){
     vector<int> arr;
-    int n;
-    cin>>n;
+    int n,m;
+    cin>>n>>m;
+
+    vector<int> arr1,arr2;
 
     for(int i=0;i<n;i++){
-        int temp =0;
+        int temp = 0;
         cin>>temp;
-        arr.push_back(temp);
+        arr1.push_back(temp);
     }
-  cout<<maxFXVI(n,arr);
+
+    for(int i=0;i<m;i++){
+        int temp = 0;
+        cin>>temp;
+        arr2.push_back(temp);
+    }
+
+
+  vector<int> ans = countEleLessThanOrEqual(arr1,arr2,arr1.size(),arr2.size());
+ 
+  for(auto it:ans)
+  cout<<it<<" ";
   return 0;
 }
